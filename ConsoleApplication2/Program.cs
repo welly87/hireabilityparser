@@ -18,7 +18,7 @@ namespace ConsoleApplication2
         {
 
             string xmlResponse = null;
-            string productCode = "e9ad91af8d018c988537bb2822aff20f";
+            string productCode = "XXX";
             // extract only the filename
             var fileName = "CV Welly"; // Path.GetFileName(file.FileName);
             var path = @"E:\iPrepare\CV_WellyTambunan_V08.pdf";

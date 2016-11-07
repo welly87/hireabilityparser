@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--  [xml content created: 11-7-2016 @ 10:51:14 EST] -->
+<!--  [xml content created: 11-7-2016 @ 18:20:50 EST] -->
 <Results>
-  <HireAbilityXMLResults id="2915123455412"  usageLimitType="allocation" usageLimit="20" currentUsage="1" remainingUsage="19" accountValidThrough="12-03-2016">
+  <HireAbilityXMLResults id="2912512216412"  usageLimitType="allocation" usageLimit="20" currentUsage="4" remainingUsage="16" accountValidThrough="12-03-2016">
     <Resume xmlns="http://ns.hr-xml.org/2007-04-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="EN" xsi:schemaLocation="http://ns.hr-xml.org/2_5/HR-XML-2_5/SEP/Resume.xsd">
       <ResumeId>
         <IdValue/>
@@ -37,23 +37,10 @@
         </Objective>
         <EmploymentHistory>
           <EmployerOrg>
-            <EmployerOrgName>Software Engineering PT.</EmployerOrgName>
+            <EmployerOrgName>PT. Geek Seat Indonesia</EmployerOrgName>
             <JobType/>
             <PositionHistory>
-              <Title>Technical Expert</Title>
-              <OrgName>
-                <OrganizationName/>
-              </OrgName>
-              <Description>
-                Geek Seat Indonesia 4 months
-              </Description>
-              <StartDate>
-                <AnyDate>2016-07-01</AnyDate>
-              </StartDate>
-            </PositionHistory>
-            <JobType/>
-            <PositionHistory>
-              <Title>* Project Lead of 10+   software engineering / Head of Research &amp; Development Division</Title>
+              <Title>Technical Expert, Software Engineering</Title>
               <OrgName>
                 <OrganizationName/>
               </OrgName>
@@ -61,33 +48,11 @@
                 <IndustryDescription>information technology</IndustryDescription>
               </OrgIndustry>
               <Description>
-                creating Hub3C collaboration tools * Becoming Scrum master for Hub3c Mobile and Web
+                4 months ) * Project Lead of 20 software engineering for creating Hub3C collaboration tools * Head of Research &amp; Development Division * Becoming Scrum master for Hub3c Mobile and Web * Co-Lead Training and Development Division Technical Leader for Streaming Analytics Engine
               </Description>
               <StartDate>
                 <AnyDate>2016-07-01</AnyDate>
               </StartDate>
-              <EndDate>
-                <AnyDate>2016-07-01</AnyDate>
-              </EndDate>
-            </PositionHistory>
-          </EmployerOrg>
-          <EmployerOrg>
-            <EmployerOrgName>Co-Lead Training and Development Division</EmployerOrgName>
-            <JobType/>
-            <PositionHistory>
-              <Title>Technical Leader</Title>
-              <OrgName>
-                <OrganizationName/>
-              </OrgName>
-              <Description>
-                Streaming Analytics Engine
-              </Description>
-              <StartDate>
-                <AnyDate>2016-07-01</AnyDate>
-              </StartDate>
-              <EndDate>
-                <AnyDate>2016-07-01</AnyDate>
-              </EndDate>
             </PositionHistory>
           </EmployerOrg>
           <EmployerOrg>
@@ -110,6 +75,9 @@
                 <AnyDate>2016-07-01</AnyDate>
               </EndDate>
             </PositionHistory>
+          </EmployerOrg>
+          <EmployerOrg>
+            <EmployerOrgName>TripleLands Team</EmployerOrgName>
             <JobType/>
             <PositionHistory>
               <Title>Founder, Team Leader and Architect</Title>
@@ -120,7 +88,7 @@
                 <IndustryDescription>management</IndustryDescription>
               </OrgIndustry>
               <Description>
-                TripleLands Team (Independent Software Team) I led software development team with 3 passionate developers with specialized expertise in enterprise, web and mobile development. We published 2 products in Android Market (SMSDong, SquareOmatic) with one product in progress (Papasan). Besides the product development we worked on 2 project based development for OCBC NISP and Megawastu (Valas Monitoring).
+                (Independent Software Team) I led software development team with 3 passionate developers with specialized expertise in enterprise, web and mobile development. We published 2 products in Android Market (SMSDong, SquareOmatic) with one product in progress (Papasan). Besides the product development we worked on 2 project based development for OCBC NISP and Megawastu (Valas Monitoring).
               </Description>
               <StartDate>
                 <AnyDate>2010-12-01</AnyDate>
@@ -248,7 +216,7 @@
           <Competency name="Engineering">
             <CompetencyId description="HireAbility taxonomy" id="1932" idOwner="HireAbility"/>
             <TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
-            <CompetencyEvidence name="Engineering">
+            <CompetencyEvidence name="Engineering" lastUsed="2016-01-01">
               <NumericValue description="Range in years of experience">1</NumericValue>
             </CompetencyEvidence>
           </Competency>
@@ -350,13 +318,6 @@
               <NumericValue description="Range in years of experience">1</NumericValue>
             </CompetencyEvidence>
           </Competency>
-          <Competency name="Project Leader">
-            <CompetencyId description="HireAbility taxonomy" id="1718" idOwner="HireAbility"/>
-            <TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
-            <CompetencyEvidence name="Project Leader">
-              <NumericValue description="Range in years of experience">1</NumericValue>
-            </CompetencyEvidence>
-          </Competency>
           <Competency name="Protocol">
             <CompetencyId description="HireAbility taxonomy" id="338" idOwner="HireAbility"/>
             <TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
@@ -388,14 +349,14 @@
           <Competency name="SCRUM">
             <CompetencyId description="HireAbility taxonomy" id="17873" idOwner="HireAbility"/>
             <TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
-            <CompetencyEvidence name="SCRUM">
+            <CompetencyEvidence name="SCRUM" lastUsed="2016-01-01">
               <NumericValue description="Range in years of experience">1</NumericValue>
             </CompetencyEvidence>
           </Competency>
           <Competency name="Scrum Master">
             <CompetencyId description="HireAbility taxonomy" id="11622" idOwner="HireAbility"/>
             <TaxonomyId description="HireAbility taxonomy" idOwner="HireAbility" id=""/>
-            <CompetencyEvidence name="Scrum Master">
+            <CompetencyEvidence name="Scrum Master" lastUsed="2016-01-01">
               <NumericValue description="Range in years of experience">1</NumericValue>
             </CompetencyEvidence>
           </Competency>
@@ -434,7 +395,7 @@
       </NonXMLResume>
     </Resume>
     <processingErrors>
-      <Error id="2915123455412">
+      <Error id="2912512216412">
         <ErrorCode></ErrorCode>
         <ErrorMessage></ErrorMessage>
       </Error>

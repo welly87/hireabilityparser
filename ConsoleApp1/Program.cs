@@ -20,7 +20,7 @@ namespace ConsoleApp1
         {
 
             string xmlResponse = null;
-            string productCode = "e9ad91af8d018c988537bb2822aff20f";
+            string productCode = "XXX";
             
             var fileName = "CV Welly"; // Path.GetFileName(file.FileName);
             var path = @"E:\iPrepare\CV_WellyTambunan_V08.pdf";
@@ -81,7 +81,7 @@ namespace ConsoleApp1
                 StreamReader reader2 = new StreamReader(stream2);
                 var jsonResume = reader2.ReadToEnd();
                 Console.WriteLine(jsonResume);
-                File.WriteAllText("cv_json.json", jsonResume);
+                File.WriteAllText("cv_json.xml", jsonResume);
 
             }
             catch (Exception ex)
