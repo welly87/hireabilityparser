@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://services.resumeparsing.com/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://services.resumeparsing.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://services.resumeparsing.com/">
+      <s:element name="ParseResume">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:ParseResumeRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ParseResumeRequest">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="AccountId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ServiceKey" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FileBytes" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="FileText" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Configuration" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="OutputXmlDoc" nillable="true" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="OutputHtml" nillable="true" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="OutputRtf" nillable="true" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="OutputWordXml" nillable="true" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="RevisionDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ParserVersion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SkillsData" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NormalizerData" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="OutputPdf" nillable="true" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="OutputCandidateImage" nillable="true" type="s:boolean" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ParseResumeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ParseResumeResult" type="tns:ParseResumeResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ParseResumeResponse">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Code" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SubCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FileType" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Text" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TextCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Xml" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="XmlDoc">
+            <s:complexType mixed="true">
+              <s:sequence>
+                <s:any />
+              </s:sequence>
+            </s:complexType>
+          </s:element>
+          <s:element minOccurs="0" maxOccurs="1" name="Html" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="HtmlCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Rtf" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RtfCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="WordXml" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="WordXmlCode" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CreditsRemaining" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ParserVersion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FileExtension" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Pdf" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="PdfCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CandidateImage" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="CandidateImageExtension" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetAccountInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:GetAccountInfoRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GetAccountInfoRequest">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="AccountId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ServiceKey" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetAccountInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetAccountInfoResult" type="tns:GetAccountInfoResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GetAccountInfoResponse">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Code" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SubCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CreditsUsed" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CreditsRemaining" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ExpirationDate" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="MaximumConcurrentRequests" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ParseJobOrder">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:ParseJobOrderRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ParseJobOrderRequest">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="AccountId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ServiceKey" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FileBytes" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="FileText" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Configuration" type="tns:ParseJobOrderConfiguration" />
+          <s:element minOccurs="1" maxOccurs="1" name="OutputXmlDoc" nillable="true" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="OutputHtml" nillable="true" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="OutputRtf" nillable="true" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="OutputWordXml" nillable="true" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="RevisionDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ParserVersion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SkillsData" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NormalizerData" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="OutputPdf" nillable="true" type="s:boolean" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ParseJobOrderConfiguration">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="CountryCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Language" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="KnownType" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="IncludeRecruitingTerms" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="IncludeSupplementalText" type="s:boolean" />
+          <s:element minOccurs="1" maxOccurs="1" name="PreferShorterJobTitles" type="s:boolean" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ParseJobOrderResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ParseJobOrderResult" type="tns:ParseJobOrderResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ParseJobOrderResponse">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Code" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SubCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FileType" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Text" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TextCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Xml" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="XmlDoc">
+            <s:complexType mixed="true">
+              <s:sequence>
+                <s:any />
+              </s:sequence>
+            </s:complexType>
+          </s:element>
+          <s:element minOccurs="0" maxOccurs="1" name="Html" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="HtmlCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Rtf" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RtfCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="WordXml" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="WordXmlCode" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CreditsRemaining" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ParserVersion" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FileExtension" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Pdf" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="PdfCode" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SetData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:SetDataRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="SetDataRequest">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseRequest">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Type" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Name" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Culture" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Content" type="tns:ArrayOfString" />
+              <s:element minOccurs="0" maxOccurs="1" name="ContentBytes" type="s:base64Binary" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="BaseRequest">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="AccountId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ServiceKey" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SetDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SetDataResult" type="tns:SetDataResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="SetDataResponse">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseResponse" />
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="BaseResponse">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Code" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SubCode" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:GetDataRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GetDataRequest">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseRequest">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Name" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Culture" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Type" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="GetDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetDataResult" type="tns:GetDataResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GetDataResponse">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseResponse">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Content" type="tns:ArrayOfString" />
+              <s:element minOccurs="0" maxOccurs="1" name="ContentBytes" type="s:base64Binary" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="ListData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:ListDataRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ListDataRequest">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseRequest">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Type" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Culture" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="ListDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListDataResult" type="tns:ListDataResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ListDataResponse">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseResponse">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="DataList" type="tns:ArrayOfData" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="ArrayOfData">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Data" nillable="true" type="tns:Data" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Data">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Key" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Type" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Culture" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Timestamp" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="DeleteData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:DeleteDataRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="DeleteDataRequest">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseRequest">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Type" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Name" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="Culture" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="DeleteDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DeleteDataResult" type="tns:DeleteDataResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="DeleteDataResponse">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseResponse" />
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="NormalizeResume">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="request" type="tns:NormalizeResumeRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="NormalizeResumeRequest">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseRequest">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Xml" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="NormalizerData" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="NormalizeResumeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="NormalizeResumeResult" type="tns:NormalizeResumeResponse" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="NormalizeResumeResponse">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:BaseResponse">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Xml" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="CreditsRemaining" type="s:int" />
+              <s:element minOccurs="0" maxOccurs="1" name="NormalizerVersion" type="s:string" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ParseResumeSoapIn">
+    <wsdl:part name="parameters" element="tns:ParseResume" />
+  </wsdl:message>
+  <wsdl:message name="ParseResumeSoapOut">
+    <wsdl:part name="parameters" element="tns:ParseResumeResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetAccountInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetAccountInfo" />
+  </wsdl:message>
+  <wsdl:message name="GetAccountInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetAccountInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ParseJobOrderSoapIn">
+    <wsdl:part name="parameters" element="tns:ParseJobOrder" />
+  </wsdl:message>
+  <wsdl:message name="ParseJobOrderSoapOut">
+    <wsdl:part name="parameters" element="tns:ParseJobOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="SetDataSoapIn">
+    <wsdl:part name="parameters" element="tns:SetData" />
+  </wsdl:message>
+  <wsdl:message name="SetDataSoapOut">
+    <wsdl:part name="parameters" element="tns:SetDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetDataSoapIn">
+    <wsdl:part name="parameters" element="tns:GetData" />
+  </wsdl:message>
+  <wsdl:message name="GetDataSoapOut">
+    <wsdl:part name="parameters" element="tns:GetDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListDataSoapIn">
+    <wsdl:part name="parameters" element="tns:ListData" />
+  </wsdl:message>
+  <wsdl:message name="ListDataSoapOut">
+    <wsdl:part name="parameters" element="tns:ListDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="DeleteDataSoapIn">
+    <wsdl:part name="parameters" element="tns:DeleteData" />
+  </wsdl:message>
+  <wsdl:message name="DeleteDataSoapOut">
+    <wsdl:part name="parameters" element="tns:DeleteDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="NormalizeResumeSoapIn">
+    <wsdl:part name="parameters" element="tns:NormalizeResume" />
+  </wsdl:message>
+  <wsdl:message name="NormalizeResumeSoapOut">
+    <wsdl:part name="parameters" element="tns:NormalizeResumeResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ParsingServiceSoap">
+    <wsdl:operation name="ParseResume">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Parse a Resume/CV and returns the results in HR-XML format.</wsdl:documentation>
+      <wsdl:input message="tns:ParseResumeSoapIn" />
+      <wsdl:output message="tns:ParseResumeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAccountInfo">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Gets the Member Account information.</wsdl:documentation>
+      <wsdl:input message="tns:GetAccountInfoSoapIn" />
+      <wsdl:output message="tns:GetAccountInfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ParseJobOrder">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Parses a job order and returns the results in Sovren-defined Job Order XML format.</wsdl:documentation>
+      <wsdl:input message="tns:ParseJobOrderSoapIn" />
+      <wsdl:output message="tns:ParseJobOrderSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SetData">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Sets the custom data to optionally be used during parsing.</wsdl:documentation>
+      <wsdl:input message="tns:SetDataSoapIn" />
+      <wsdl:output message="tns:SetDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetData">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Gets the specified custom data content.</wsdl:documentation>
+      <wsdl:input message="tns:GetDataSoapIn" />
+      <wsdl:output message="tns:GetDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListData">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Lists the custom data that has been uploaded via the SetData method.</wsdl:documentation>
+      <wsdl:input message="tns:ListDataSoapIn" />
+      <wsdl:output message="tns:ListDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteData">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Deletes the specified custom data.</wsdl:documentation>
+      <wsdl:input message="tns:DeleteDataSoapIn" />
+      <wsdl:output message="tns:DeleteDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="NormalizeResume">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Normalizes the resume values within the supplied XML document.</wsdl:documentation>
+      <wsdl:input message="tns:NormalizeResumeSoapIn" />
+      <wsdl:output message="tns:NormalizeResumeSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ParsingServiceSoap" type="tns:ParsingServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ParseResume">
+      <soap:operation soapAction="http://services.resumeparsing.com/ParseResume" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAccountInfo">
+      <soap:operation soapAction="http://services.resumeparsing.com/GetAccountInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ParseJobOrder">
+      <soap:operation soapAction="http://services.resumeparsing.com/ParseJobOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetData">
+      <soap:operation soapAction="http://services.resumeparsing.com/SetData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetData">
+      <soap:operation soapAction="http://services.resumeparsing.com/GetData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListData">
+      <soap:operation soapAction="http://services.resumeparsing.com/ListData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteData">
+      <soap:operation soapAction="http://services.resumeparsing.com/DeleteData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NormalizeResume">
+      <soap:operation soapAction="http://services.resumeparsing.com/NormalizeResume" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ParsingServiceSoap12" type="tns:ParsingServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ParseResume">
+      <soap12:operation soapAction="http://services.resumeparsing.com/ParseResume" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAccountInfo">
+      <soap12:operation soapAction="http://services.resumeparsing.com/GetAccountInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ParseJobOrder">
+      <soap12:operation soapAction="http://services.resumeparsing.com/ParseJobOrder" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetData">
+      <soap12:operation soapAction="http://services.resumeparsing.com/SetData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetData">
+      <soap12:operation soapAction="http://services.resumeparsing.com/GetData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListData">
+      <soap12:operation soapAction="http://services.resumeparsing.com/ListData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteData">
+      <soap12:operation soapAction="http://services.resumeparsing.com/DeleteData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NormalizeResume">
+      <soap12:operation soapAction="http://services.resumeparsing.com/NormalizeResume" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ParsingService">
+    <wsdl:port name="ParsingServiceSoap" binding="tns:ParsingServiceSoap">
+      <soap:address location="http://services.resumeparsing.com/ParsingService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ParsingServiceSoap12" binding="tns:ParsingServiceSoap12">
+      <soap12:address location="http://services.resumeparsing.com/ParsingService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

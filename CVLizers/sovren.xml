@@ -1,0 +1,706 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+- <Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+  - <ResumeId>
+    <IdValue />
+  </ResumeId>
+  + <StructuredXMLResume>
+    - <ContactInfo>
+      - <PersonName>
+        <FormattedName>WELLY MADYA PUTRA TAMBUNAN</FormattedName>
+        <GivenName>WELLY</GivenName>
+        <MiddleName>MADYA PUTRA</MiddleName>
+        <FamilyName>TAMBUNAN</FamilyName>
+      </PersonName>
+      - <ContactMethod>
+        - <Telephone>
+          <FormattedNumber>+62 859 4591 5486</FormattedNumber>
+        </Telephone>
+      </ContactMethod>
+      - <ContactMethod>
+        <Use>personal</Use>
+        <Location>onPerson</Location>
+        <WhenAvailable>anytime</WhenAvailable>
+        <InternetEmailAddress>if05041@gmail.com</InternetEmailAddress>
+      </ContactMethod>
+      - <ContactMethod>
+        <Use>businessDirect</Use>
+        <Location>home</Location>
+        <WhenAvailable>anytime</WhenAvailable>
+        <InternetWebAddress>https://id.linkedin.com/in/welly-tambunan-019a0034</InternetWebAddress>
+      </ContactMethod>
+      - <ContactMethod>
+        <Use>businessDirect</Use>
+        <Location>home</Location>
+        <WhenAvailable>anytime</WhenAvailable>
+        <InternetWebAddress>https://weltam.wordpress.com</InternetWebAddress>
+      </ContactMethod>
+    </ContactInfo>
+    <Objective>To enable sustainable software development ecosystem in Indonesia by delivering excellence in knowledge sharing and teaching about best practice on solution delivery and technology selection in software development process to the community</Objective>
+    - <EmploymentHistory>
+      - <EmployerOrg>
+        <EmployerOrgName>PT. Geek Seat Indonesia</EmployerOrgName>
+        - <PositionHistory positionType="directHire" currentEmployer="true">
+          <Title>Technical Expert, Software Engineering</Title>
+          - <OrgName>
+            <OrganizationName>PT. Geek Seat Indonesia</OrganizationName>
+          </OrgName>
+          <Description>( 4 months ) • Project Lead of 20 software engineering for creating Hub3C collaboration tools • Head of Research & Development Division • Becoming Scrum master for Hub3c Mobile and Web • Co-Lead Training and Development Division</Description>
+          - <StartDate>
+            <YearMonth>2016-07</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <StringDate>current</StringDate>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-1</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>16</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>Streaming Analytics Engine</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>Technical Leader</Title>
+          - <OrgName>
+            <OrganizationName>PT. Petrolink Services Indonesia</OrganizationName>
+          </OrgName>
+          <Description>• Leading team of 5 people for creating Distributed Analytics Engine • Worked on implementing Streaming Analytics system using Java, Scala, Apache Cassandra, Apache Spark and Apache Flink for Super Majors Oil Company on Middle East • Worked on open source Energistics Transfer Protocol (ETP) specification for high speed real-time data • Implementing highly scalable ETP server using C# .NET, Apache Cassandra, RabbitMQ and WebSocket • Created Video Conference Application by using C#, .NET Framework, StreamCoders and Jingle Specification. • Created XMPP Server using C# and .NET framework (RFC 6120, RFC 6121, and RFC 6122)</Description>
+          - <StartDate>
+            <YearMonth>2011-07</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2016-07</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-2</sov:Id>
+              <sov:CompanyNameProbability>14</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+              <sov:NumberOfEmployeesSupervised>5</sov:NumberOfEmployeesSupervised>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>TripleLands Team (Independent Software Team)</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>Founder, Team Leader and Architect</Title>
+          - <OrgName>
+            <OrganizationName>TripleLands Team (Independent Software Team)</OrganizationName>
+          </OrgName>
+          <Description>I led software development team with 3 passionate developers with specialized expertise in enterprise, web and mobile development. We published 2 products in Android Market (SMSDong, SquareOmatic) with one product in progress (Papasan). Besides the product development we worked on 2 project based development for OCBC NISP and Megawastu (Valas Monitoring).</Description>
+          - <StartDate>
+            <YearMonth>2010-12</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2011-06</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-3</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>32</sov:PositionTitleProbability>
+              <sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+              <sov:SelfEmploymentPhrase>Founder</sov:SelfEmploymentPhrase>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>PT. InforSys Indonesia</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>R&D Software Architect</Title>
+          - <OrgName>
+            <OrganizationName>PT. InforSys Indonesia</OrganizationName>
+          </OrgName>
+          <Description>( 3 years ) Main research topic is including messaging, service oriented architecture, distributed domain driven design with the latest open source .NET technology. We used NServiceBus for middleware.</Description>
+          - <StartDate>
+            <YearMonth>2008-10</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2011-01</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-4</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>21</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+    </EmploymentHistory>
+    - <LicensesAndCertifications>
+      - <LicenseOrCertification>
+        <Name>Data Science Certificate from Coursera</Name>
+        <Description>certification; found in CERTIFICATIONS</Description>
+      </LicenseOrCertification>
+    </LicensesAndCertifications>
+    - <Qualifications>
+      - <Competency name=".NET">
+        <CompetencyId id="023039" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name=".NET" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2; POS-4" typeId="023039" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">87</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name=".NET">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ALGORITHM">
+        <CompetencyId id="022551" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Algorithm" typeDescription="Found in EDUCATION; TRAINING" typeId="022551">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Algorithm">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ALGORITHM">
+        <CompetencyId id="022552" />
+        <TaxonomyId id="307" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="Algorithm" typeDescription="Found in EDUCATION; TRAINING" typeId="022552">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Algorithm">
+          <StringValue description="taxonomies">Engineering → General Engineering</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ANDROID">
+        <CompetencyId id="7310008" />
+        <TaxonomyId id="731" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Android" typeDescription="Found in WORK HISTORY; POS-3" typeId="7310008" lastUsed="2011-06-30">
+          <NumericValue description="Total Months">7</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Android">
+          <StringValue description="taxonomies">Information Technology → User Interface</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ANDROID">
+        <CompetencyId id="5520503" />
+        <TaxonomyId id="552" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Android" typeDescription="Found in WORK HISTORY; POS-3" typeId="5520503" lastUsed="2011-06-30">
+          <NumericValue description="Total Months">7</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Android">
+          <StringValue description="taxonomies">Information Technology → Mobile Applications</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="APACHE">
+        <CompetencyId id="025565" />
+        <TaxonomyId id="311" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="Apache" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="025565" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Apache">
+          <StringValue description="taxonomies">Engineering → Air and Aerospace</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="APACHE">
+        <CompetencyId id="021093" />
+        <TaxonomyId id="203" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Apache" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="021093" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Apache">
+          <StringValue description="taxonomies">Information Technology → UNIX and LINUX</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="APACHE CASSANDRA">
+        <CompetencyId id="5500308" />
+        <TaxonomyId id="550" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Apache Cassandra" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="5500308" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Apache Cassandra">
+          <StringValue description="taxonomies">Information Technology → Cloud Computing</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="APACHE CASSANDRA">
+        <CompetencyId id="5530704" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Apache Cassandra" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="5530704" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Apache Cassandra">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="APACHE KAFKA">
+        <CompetencyId id="5530717" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Apache Kafka" typeDescription="Found in CERTIFICATIONS" typeId="5530717">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Apache Kafka">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ARCHITECTURE">
+        <CompetencyId id="5570085" />
+        <TaxonomyId id="566" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="architecture" typeDescription="Found in WORK HISTORY; POS-4" typeId="5570085" lastUsed="2011-01-01">
+          <NumericValue description="Total Months">27</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="architecture">
+          <StringValue description="taxonomies">User Experience → Industrial Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ASTERADATA">
+        <CompetencyId id="5500311" />
+        <TaxonomyId id="550" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="ASTERADATA" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="5500311" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="ASTERADATA">
+          <StringValue description="taxonomies">Information Technology → Cloud Computing</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="Avro">
+        <CompetencyId id="1004745" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Avro" typeDescription="Found in CERTIFICATIONS" typeId="1004745">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Avro">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="B2B SOFTWARE">
+        <CompetencyId id="023446" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="B2B SOFTWARE" typeDescription="Found in WORK HISTORY; POS-1" typeId="023446" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="B2B SOFTWARE">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="BIG DATA ANALYTICS">
+        <CompetencyId id="5530909" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Big Data Analytics" typeDescription="Found in CERTIFICATIONS" typeId="5530909">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Big Data Analytics">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="C#">
+        <CompetencyId id="012275" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="C#" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="012275" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="C#">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="CASSANDRA">
+        <CompetencyId id="5530915" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Cassandra" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="5530915" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Cassandra">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="CASSANDRA">
+        <CompetencyId id="550031101" idOwner="5500311" />
+        <TaxonomyId id="550" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Cassandra" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="550031101" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Cassandra">
+          <StringValue description="taxonomies">Information Technology → Cloud Computing</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="CASSANDRA">
+        <CompetencyId id="553070401" idOwner="5530704" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Cassandra" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="553070401" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Cassandra">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DATA ANALYTICS">
+        <CompetencyId id="5530940" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Data Analytics" typeDescription="Found in CERTIFICATIONS" typeId="5530940">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Data Analytics">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DATA ANALYTICS">
+        <CompetencyId id="1400067" />
+        <TaxonomyId id="588" idOwner="14" description="Sovren" />
+        - <CompetencyEvidence name="Data Analytics" typeDescription="Found in CERTIFICATIONS" typeId="1400067">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Data Analytics">
+          <StringValue description="taxonomies">Marketing → Data & Analytics</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DATA SCIENCE">
+        <CompetencyId id="7200001" />
+        <TaxonomyId id="720" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Data Science" typeDescription="Found in CERTIFICATIONS" typeId="7200001">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Data Science">
+          <StringValue description="taxonomies">Information Technology → Machine Learning</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DATA SCIENCE">
+        <CompetencyId id="5530958" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Data Science" typeDescription="Found in CERTIFICATIONS" typeId="5530958">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Data Science">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DATA SCIENCE">
+        <CompetencyId id="1400075" />
+        <TaxonomyId id="588" idOwner="14" description="Sovren" />
+        - <CompetencyEvidence name="Data Science" typeDescription="Found in CERTIFICATIONS" typeId="1400075">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Data Science">
+          <StringValue description="taxonomies">Marketing → Data & Analytics</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="HADOOP">
+        <CompetencyId id="5530761" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Hadoop" typeDescription="Found in CERTIFICATIONS" typeId="5530761">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Hadoop">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="HADOOP">
+        <CompetencyId id="1400328" />
+        <TaxonomyId id="588" idOwner="14" description="Sovren" />
+        - <CompetencyEvidence name="Hadoop" typeDescription="Found in CERTIFICATIONS" typeId="1400328">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Hadoop">
+          <StringValue description="taxonomies">Marketing → Data & Analytics</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="Hadoop">
+        <CompetencyId id="1004744" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Hadoop" typeDescription="Found in CERTIFICATIONS" typeId="1004744">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Hadoop">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="HTML">
+        <CompetencyId id="019115" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="HTML" typeDescription="Found in CERTIFICATIONS" typeId="019115">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="HTML">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="JAVA">
+        <CompetencyId id="023328" />
+        <TaxonomyId id="339" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Java" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="023328" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Java">
+          <StringValue description="taxonomies">Information Technology → Java</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="KAFKA">
+        <CompetencyId id="553071701" idOwner="5530717" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Kafka" typeDescription="Found in CERTIFICATIONS" typeId="553071701">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Kafka">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="KAFKA">
+        <CompetencyId id="5531005" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Kafka" typeDescription="Found in CERTIFICATIONS" typeId="5531005">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Kafka">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MICROSOFT .NET">
+        <CompetencyId id="021807" idOwner="026107" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MICROSOFT .NET" typeDescription="Found in CERTIFICATIONS" typeId="021807">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MICROSOFT .NET">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MIDDLEWARE">
+        <CompetencyId id="025406" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="middleware." typeDescription="Found in WORK HISTORY; POS-4" typeId="025406" lastUsed="2011-01-01">
+          <NumericValue description="Total Months">27</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="middleware.">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MS .NET">
+        <CompetencyId id="026107" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MS .NET" typeDescription="Found in CERTIFICATIONS" typeId="026107">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MS .NET">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="OPEN SOURCE">
+        <CompetencyId id="003842" />
+        <TaxonomyId id="253" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="open source" typeDescription="Found in WORK HISTORY; POS-2; POS-4" typeId="003842" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">87</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="open source">
+          <StringValue description="taxonomies">Information Technology → Protocols and Standards</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="REAL-TIME">
+        <CompetencyId id="081186" />
+        <TaxonomyId id="340" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="real-time" typeDescription="Found in WORK HISTORY; POS-2" typeId="081186" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="real-time">
+          <StringValue description="taxonomies">Information Technology → Embedded and Realtime</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="REAL-TIME">
+        <CompetencyId id="080509" />
+        <TaxonomyId id="307" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="real-time" typeDescription="Found in WORK HISTORY; POS-2" typeId="080509" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="real-time">
+          <StringValue description="taxonomies">Engineering → General Engineering</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="REAL-TIME">
+        <CompetencyId id="081190" />
+        <TaxonomyId id="253" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="real-time" typeDescription="Found in WORK HISTORY; POS-2" typeId="081190" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="real-time">
+          <StringValue description="taxonomies">Information Technology → Protocols and Standards</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="REAL-TIME">
+        <CompetencyId id="080770" />
+        <TaxonomyId id="144" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="real-time" typeDescription="Found in WORK HISTORY; POS-2" typeId="080770" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="real-time">
+          <StringValue description="taxonomies">Engineering → Computer Hardware</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SCALA">
+        <CompetencyId id="5510135" />
+        <TaxonomyId id="551" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Scala" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="5510135" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Scala">
+          <StringValue description="taxonomies">Information Technology → Gaming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SCALA">
+        <CompetencyId id="007474" />
+        <TaxonomyId id="351" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Scala" typeDescription="Found in CERTIFICATIONS; WORK HISTORY; POS-2" typeId="007474" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Scala">
+          <StringValue description="taxonomies">Information Technology → Multimedia</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SOFTWARE DEVELOPMENT">
+        <CompetencyId id="008213" idOwner="022594" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="software development" typeDescription="Found in WORK HISTORY; POS-3" typeId="008213" lastUsed="2011-06-30">
+          <NumericValue description="Total Months">7</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="software development">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SOFTWARE ENGINEERING">
+        <CompetencyId id="008221" idOwner="023446" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Software Engineering" typeDescription="Found in WORK HISTORY; POS-1" typeId="008221" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Software Engineering">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="STREAMING">
+        <CompetencyId id="008696" />
+        <TaxonomyId id="196" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Streaming" typeDescription="Found in WORK HISTORY; POS-2" typeId="008696" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Streaming">
+          <StringValue description="taxonomies">Information Technology → Internet</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="STRUCTURED SOFTWARE">
+        <CompetencyId id="022594" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="STRUCTURED SOFTWARE" typeDescription="Found in WORK HISTORY; POS-3" typeId="022594" lastUsed="2011-06-30">
+          <NumericValue description="Total Months">7</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="STRUCTURED SOFTWARE">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="TRAINING">
+        <CompetencyId id="200064" />
+        <TaxonomyId id="903" idOwner="92" description="Sovren" />
+        - <CompetencyEvidence name="Training" typeDescription="Found in WORK HISTORY; POS-1" typeId="200064" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Training">
+          <StringValue description="taxonomies">Knowledge and Learning Management → Knowledge and Learning Management</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="VIDEO CONFERENCE">
+        <CompetencyId id="010527" />
+        <TaxonomyId id="351" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Video Conference" typeDescription="Found in WORK HISTORY; POS-2" typeId="010527" lastUsed="2016-07-01">
+          <NumericValue description="Total Months">60</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Video Conference">
+          <StringValue description="taxonomies">Information Technology → Multimedia</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+    </Qualifications>
+    - <Languages>
+      - <Language>
+        <LanguageCode>en</LanguageCode>
+        <Read>true</Read>
+        <Write>true</Write>
+        <Speak>true</Speak>
+        <Comments>[RESUME_LANGUAGE]</Comments>
+      </Language>
+    </Languages>
+    <RevisionDate>2016-11-10</RevisionDate>
+  </StructuredXMLResume>
+  + <NonXMLResume>
+    <TextResume>Curriculum Vitae WELLY MADYA PUTRA TAMBUNAN https://id.linkedin.com/in/welly-tambunan-019a0034 https://weltam.wordpress.com/ if05041@gmail.com +62 859 4591 5486 P.Siantar, January 27th, 1987 CAREER OBJECTIVE To enable sustainable software development ecosystem in Indonesia by delivering excellence in knowledge sharing and teaching about best practice on solution delivery and technology selection in software development process to the community WORK EXPERIENCE Technical Expert, Software Engineering PT. Geek Seat Indonesia July 2016 - Present ( 4 months ) • Project Lead of 20 software engineering for creating Hub3C collaboration tools • Head of Research & Development Division • Becoming Scrum master for Hub3c Mobile and Web • Co-Lead Training and Development Division Technical Leader for Streaming Analytics Engine PT. Petrolink Services Indonesia July 2011 - July 2016 (5 Years) • Leading team of 5 people for creating Distributed Analytics Engine • Worked on implementing Streaming Analytics system using Java, Scala, Apache Cassandra, Apache Spark and Apache Flink for Super Majors Oil Company on Middle East • Worked on open source Energistics Transfer Protocol (ETP) specification for high speed real-time data • Implementing highly scalable ETP server using C# .NET, Apache Cassandra, RabbitMQ and WebSocket • Created Video Conference Application by using C#, .NET Framework, StreamCoders and Jingle Specification. • Created XMPP Server using C# and .NET framework (RFC 6120, RFC 6121, and RFC 6122) Founder, Team Leader and Architect TripleLands Team (Independent Software Team) December 2010 - June 2011 (1 Years) I led software development team with 3 passionate developers with specialized expertise in enterprise, web and mobile development. We published 2 products in Android Market (SMSDong, SquareOmatic) with one product in progress (Papasan). Besides the product development we worked on 2 project based development for OCBC NISP and Megawastu (Valas Monitoring). R&D Software Architect PT. InforSys Indonesia October 2008 - January 2011 ( 3 years ) Main research topic is including messaging, service oriented architecture, distributed domain driven design with the latest open source .NET technology. We used NServiceBus for middleware. EDUCATION 2008 Del Polytechnics of Informatics, Sumatera Utara, Amd Best Graduates Student, GPA 3.46 Final Project: Algorithm Design for Destination Call Transportation CERTIFICATION Big Data, Scala, Spark and Hadoop Certification from IBM MCPD WINDOWS APPLICATIONS USING MICROSOFT .NET FRAMEWORK 4 You can see the details here: https://mcp.microsoft.com/authenticate/validatemcp.aspx Transcript ID: 992190 Access Code: tambunanw Data Science Certificate from Coursera Tools and Technology Programming Language: Java, C#, and Scala Big Data Analytics: Apache Cassandra, Apache Spark and Apache Flink Messaging: RabbitMQ, Apache Kafka Serialization: Apache Avro Transport: HTML 5 WebSocket PROFESSIONAL GROUP AND ORGANIZATION Energistics Transfer Protocol contributor Microsoft Community Leader for Windows Apache AVRO Contributor</TextResume>
+  </NonXMLResume>
+  - <UserArea>
+    - <sov:ResumeUserArea>
+      - <sov:Culture>
+        <sov:Language>en</sov:Language>
+        <sov:Country>US</sov:Country>
+        <sov:CultureInfo>en-US</sov:CultureInfo>
+      </sov:Culture>
+      - <sov:ExperienceSummary>
+        <sov:Description>WELLY MADYA PUTRA TAMBUNAN's experience appears to be concentrated in Information Technology / Programming, with exposure to Engineering / Air and Aerospace. WELLY MADYA PUTRA TAMBUNAN has 8 years of work experience, with 6 years of management experience, including a low-level position.</sov:Description>
+        <sov:MonthsOfWorkExperience>97</sov:MonthsOfWorkExperience>
+        <sov:YearsOfWorkExperience>8</sov:YearsOfWorkExperience>
+        <sov:MonthsOfManagementExperience>67</sov:MonthsOfManagementExperience>
+        <sov:YearsOfManagementExperience>6</sov:YearsOfManagementExperience>
+        <sov:HighestManagementScore>25</sov:HighestManagementScore>
+        <sov:ExecutiveType>none</sov:ExecutiveType>
+        <sov:ManagementStory>The following management-related items were found: Founder, Team Leader and Architect Starting on 7/1/2011, the candidate held the following low-level management position for 5 years: Title: Technical Leader for Streaming Analytics Engine, PT. Petrolink Services Indonesia Starting on 12/1/2010, the candidate held the following low-level management position for 7 months: Title: Founder, Team Leader and Architect for TripleLands Team (Independent Software Team)</sov:ManagementStory>
+        - <sov:BestFitTaxonomies>
+          - <sov:BestFitTaxonomy id="10" rootId="Sovren" name="Information Technology" weight="5456.93" percentOfOverall="84.15" percentOfParent="84.15">
+            <sov:BestFitTaxonomy id="204" rootId="Sovren" name="Programming" weight="1734.77" percentOfOverall="26.75" percentOfParent="31.79" />
+            <sov:BestFitTaxonomy id="253" rootId="Sovren" name="Protocols and Standards" weight="671.76" percentOfOverall="10.36" percentOfParent="12.31" />
+          </sov:BestFitTaxonomy>
+          - <sov:BestFitTaxonomy id="5" rootId="Sovren" name="Engineering" weight="648.00" percentOfOverall="9.99" percentOfParent="9.99">
+            <sov:BestFitTaxonomy id="311" rootId="Sovren" name="Air and Aerospace" weight="388.80" percentOfOverall="6.00" percentOfParent="60.00" />
+            <sov:BestFitTaxonomy id="307" rootId="Sovren" name="General Engineering" weight="151.20" percentOfOverall="2.33" percentOfParent="23.33" />
+          </sov:BestFitTaxonomy>
+        </sov:BestFitTaxonomies>
+      </sov:ExperienceSummary>
+      - <sov:TrainingHistory>
+        <sov:Text>2008 Del Polytechnics of Informatics, Sumatera Utara, Amd Best Graduates Student, GPA 3.46 Final Project: Algorithm Design for Destination Call Transportation</sov:Text>
+        - <sov:Training>
+          <sov:Type>Unknown</sov:Type>
+          <sov:TrainingName />
+          <sov:Entity />
+          <sov:Description>2008 Del Polytechnics of Informatics, Sumatera Utara, Amd</sov:Description>
+          - <sov:EndDate>
+            <Year>2008</Year>
+          </sov:EndDate>
+        </sov:Training>
+        - <sov:Training>
+          <sov:Type>Unknown</sov:Type>
+          <sov:TrainingName />
+          <sov:Entity />
+          <sov:Description>Best Graduates Student, GPA 3.46</sov:Description>
+        </sov:Training>
+        - <sov:Training>
+          <sov:Type>Unknown</sov:Type>
+          <sov:TrainingName />
+          <sov:Entity />
+          <sov:Description>Final Project: Algorithm Design for Destination Call Transportation</sov:Description>
+        </sov:Training>
+      </sov:TrainingHistory>
+      - <sov:Sections>
+        <sov:Section starts="8" ends="13" sectionType="OBJECTIVE">CAREER OBJECTIVE</sov:Section>
+        <sov:Section starts="14" ends="57" sectionType="WORK HISTORY">WORK EXPERIENCE</sov:Section>
+        <sov:Section starts="58" ends="63" sectionType="EDUCATION">EDUCATION</sov:Section>
+        <sov:Section starts="64" ends="89" sectionType="CERTIFICATIONS">CERTIFICATION</sov:Section>
+      </sov:Sections>
+      - <sov:ReservedData>
+        - <sov:Phones>
+          <sov:Phone>+62 859 4591 5486</sov:Phone>
+        </sov:Phones>
+        - <sov:EmailAddresses>
+          <sov:EmailAddress>if05041@gmail.com</sov:EmailAddress>
+        </sov:EmailAddresses>
+        - <sov:Urls>
+          <sov:Url>https://id.linkedin.com/in/welly-tambunan-019a0034</sov:Url>
+          <sov:Url>https://weltam.wordpress.com</sov:Url>
+          <sov:Url>https://mcp.microsoft.com/authenticate/validatemcp.aspx</sov:Url>
+        </sov:Urls>
+      </sov:ReservedData>
+      <sov:ParsedTextLength>3752</sov:ParsedTextLength>
+      <sov:ParseTime>375</sov:ParseTime>
+      <sov:LicenseSerialNumber>EU:Geekseat:20161110025301663:91a09afb-bfd8-4f25-88d2-927eb3500a0a</sov:LicenseSerialNumber>
+      <sov:ParserConfigurationString>XX00000X0X00000001X1101010110111101X1X000111111111111111111X01000100111000011000000000000000111010000001</sov:ParserConfigurationString>
+      <sov:ParserVersion>7.5.7509.9</sov:ParserVersion>
+    </sov:ResumeUserArea>
+  </UserArea>
+</Resume>

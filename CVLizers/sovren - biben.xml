@@ -1,0 +1,2050 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+- <Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+  - <ResumeId>
+    <IdValue />
+  </ResumeId>
+  - <StructuredXMLResume>
+    - <ContactInfo>
+      - <PersonName>
+        <FormattedName>Biben Nurbani Hasan</FormattedName>
+        <GivenName>Biben</GivenName>
+        <MiddleName>Nurbani</MiddleName>
+        <FamilyName>Hasan</FamilyName>
+      </PersonName>
+      - <ContactMethod>
+        <WhenAvailable>anytime</WhenAvailable>
+        - <PostalAddress>
+          <CountryCode>ID</CountryCode>
+          <Municipality>Bandung</Municipality>
+          - <DeliveryAddress>
+            <AddressLine>Jalan Teratai Mekar VIII No. 27, Komp. Panghegar Permai</AddressLine>
+          </DeliveryAddress>
+        </PostalAddress>
+      </ContactMethod>
+      - <ContactMethod>
+        - <Telephone>
+          <FormattedNumber>085721549005</FormattedNumber>
+        </Telephone>
+      </ContactMethod>
+      - <ContactMethod>
+        <Use>personal</Use>
+        <Location>onPerson</Location>
+        <WhenAvailable>anytime</WhenAvailable>
+        <InternetEmailAddress>bibennurbani@gmail.com</InternetEmailAddress>
+      </ContactMethod>
+      - <ContactMethod>
+        <Use>businessDirect</Use>
+        <Location>home</Location>
+        <WhenAvailable>anytime</WhenAvailable>
+        <InternetWebAddress>bibennurbani.net</InternetWebAddress>
+      </ContactMethod>
+    </ContactInfo>
+    <Objective>oriented individual with good analytic thinking, fast leaner, result oriented. • Enthusiastic team player and strive to contribute best practice, standards compliant approaches wherever possible. • Problem solver. • Good knowledge software development methodology. • Eager to learn new skills and competencies, • Technology: - Programming Language: C#, C++, Java, php, SQL, CSS, JavaScript, JQuery, Groovy, Ruby, Python - Framework / Lib: Code Igniter, Laravel, PrimeFaces, AngularJS, Grails, .Net - Application Server: Apache Tomcat, IIS - Database: Oracle, MySQL, SQL Server, PostgreSQL, DB2 - Operating System: Windows, Linux - Development Tools: Eclipse, SQL Server Management Studio, Sublime Text, Visual Studio</Objective>
+    - <EmploymentHistory>
+      - <EmployerOrg>
+        <EmployerOrgName>E.1 Company</EmployerOrgName>
+        - <PositionHistory positionType="contract">
+          <Title>Freelance Software Engineer</Title>
+          - <OrgName>
+            <OrganizationName>E.1 Company</OrganizationName>
+          </OrgName>
+          <Description>(From the most recent) Name: PT. Brain Power Solution C1 From: Sep. 2015 To: Mar. 2016 Role: Freelance Software Engineer</Description>
+          - <StartDate>
+            <YearMonth>2015-09</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2016-03</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-1</sov:Id>
+              <sov:CompanyNameProbability>16</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>29</sov:PositionTitleProbability>
+              <sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+              <sov:SelfEmploymentPhrase>Freelance</sov:SelfEmploymentPhrase>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>PT. Mitrais</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>NET Software Engineer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Mitrais</OrganizationName>
+          </OrgName>
+          <Description>Name: PT. Navcore Nextology C3</Description>
+          - <StartDate>
+            <YearMonth>2014-09</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2015-09</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-2</sov:Id>
+              <sov:CompanyNameProbability>11</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>23</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Mitrais</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Bandung</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Site: Jalan Prof. Drg. Surya Sumantri No.8-D, Bandung Project Desc.: Internal project for PHP Skill enablement Technical Info: App Type: Web Based Dev language: PHP Server OS: Linux Framework: Laravel, Code Igniter, MySql. DB: My SQL Dev Tools: Sublime Text App Server: Apache Other Info: 2 Project (Online Recruitment, Mitrais Home Portal)</Description>
+          - <StartDate>
+            <YearMonth>2015-07</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2015-07</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-9</sov:Id>
+              <sov:CompanyNameProbability>11</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Mitrais</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Bandung</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Site: Jalan Prof. Drg. Surya Sumantri No.8-D, Bandung Project Desc.: Internal project for Phyton Skill enablement Technical Info: App Type: Web Based Dev language: Phyton Server OS: Linux Framework: Phyton DB: My SQL Dev Tools: Sublime Text App Server: Apache Other Info: 2 Project (Online Recruitment, Mitrais Home Portal)</Description>
+          - <StartDate>
+            <YearMonth>2015-06</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2015-06</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-10</sov:Id>
+              <sov:CompanyNameProbability>11</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Mitrais</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Bandung</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Site: Jalan Prof. Drg. Surya Sumantri No.8-D, Bandung Project Desc.: Internal Project for Mitrais Online Recruitment http://careers.mitrais.com/ Technical Info: App Type: Web Based Dev language: C# Server OS: Windows Framework: .Net, AngularJS DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: Contain public site and admin site</Description>
+          - <StartDate>
+            <YearMonth>2015-05</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2015-06</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-11</sov:Id>
+              <sov:CompanyNameProbability>11</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>Project Site</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Bandung</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Desc.: Website for Financial in hospital management systems; It is a financial system designed to support a one stop solution in hospital information system. Technical Info: App Type: Web Based Dev language: C# Server OS: Windows Framework: .Net, AngularJS DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: -</Description>
+          - <StartDate>
+            <YearMonth>2014-09</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2014-11</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-13</sov:Id>
+              <sov:CompanyNameProbability>11</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>PT. Cybertrend Intrabuana (Intership)</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>Net Web Developer, Windows Store Apps Developer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Cybertrend Intrabuana (Intership)</OrganizationName>
+          </OrgName>
+          <Description>C4</Description>
+          - <StartDate>
+            <YearMonth>2012-09</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2014-09</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-3</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>23</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName />
+        - <PositionHistory positionType="directHire">
+          <Title>Software Engineer</Title>
+          - <OrgName>
+            <OrganizationName />
+          </OrgName>
+          <Description>E.2 Projects (From the most recent)</Description>
+          - <StartDate>
+            <YearMonth>2011-07</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2011-09</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-4</sov:Id>
+              <sov:PositionTitleProbability>28</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>PT. Divusi</EmployerOrgName>
+        - <PositionHistory positionType="directHire" currentEmployer="true">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>Project Site</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Bandung</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Jl.Villa Duta No.1 Parongpong, Bandung Project Desc.: Web based application to manage Rencana Pengajuan Tenaga Kerja & Izin Menggunakan Tenaga Kerja Asing from SKK Migas, Pertamina Technical Info: App Type: Web Based Dev language: Java, Groovy Server OS: Windows Framework: Grails, Primefaces DB: Oracle, H2 Dev Tools: Eclipse App Server: Apache Tomcat Other Info: Git source control</Description>
+          - <StartDate>
+            <YearMonth>2015-11</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <StringDate>current</StringDate>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-5</sov:Id>
+              <sov:CompanyNameProbability>11</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>Bank Mandiri</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>Bank Mandiri</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Bandung</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Site: Jl.Villa Duta No.1 Parongpong, Bandung Project Desc.: Web based application to manage Lead data from Bank Mandiri Technical Info: App Type: Web Based Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: TFS source control</Description>
+          - <StartDate>
+            <YearMonth>2015-09</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2015-10</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-6</sov:Id>
+              <sov:CompanyNameProbability>16</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>PT. Coca Cola Amatil Indonesia</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Coca Cola Amatil Indonesia</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Site: Jl. Sultan Iskandar Muda, Jakarta Project Desc.: e-SIC (e-Short Interval Control), called as eSIC, is a tool created by OEE Team from Manufacturing Team for measuring productivity of Finished Goods production lines by recording the output performance and any unplanned downtime event in a certain consistent duration (every hour). Technical Info: Kendo UI, ASP.Net 4 MVC. App Type: Web Based Dev language: C#</Description>
+          - <StartDate>
+            <YearMonth>2015-08</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2015-09</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-7</sov:Id>
+              <sov:CompanyNameProbability>17</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>GIT Source Control</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>GIT Source Control</OrganizationName>
+          </OrgName>
+          <Description>Project Name: DMS(Data Migration System) Data integration P4 Role: Programmer Period From: Jul.2015 To: Jul. 2015 Customer: PT. Coca Cola Amatil Indonesia Project Site: Jl. Sultan Iskandar Muda, Jakarta Project Desc.: Console application that use to integrate csv data from sftp into IBM db2 database. Technical Info: App Type: Desktop Based, Services Dev language: C# Server OS: Windows Framework: .Net DB: DB2 Dev Tools: Microsoft Visual Studio App Server: - Other Info: -</Description>
+          - <StartDate>
+            <YearMonth>2015-07</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2015-07</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-8</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>Project Site</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>Project Site</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Bandung</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Jalan Prof. Drg. Surya Sumantri No.8-D, Bandung Project Desc.: Website Application for Investment advisers and asset Consultant Company. Technical Info: App Type: Web Based Dev language: C# Server OS: Windows Framework: .Net, AngularJS DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: HMS Financial System P9</Description>
+          - <StartDate>
+            <YearMonth>2014-11</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2015-05</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-12</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+              <sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+              <sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>PT. Navcore Nextology</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Navcore Nextology</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Mobile Application that give info about current meeting room, Get the info from EWS managed API and integrated with outlook calendar for internal office application, can run on Android, Windows Phone, iPhone, iPad, Windows 8. Technical Info: App Type: Mobile Application Dev language: HTML 5, jQuery mobile</Description>
+          - <StartDate>
+            <YearMonth>2014-07</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2014-09</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-14</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Navcore Nextology</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Desc.: Work as a developer and UI Designer; Create a SharePoint based application that manages correspondence for internal purpose. Technical Info: App Type: Mobile Application Dev language: C# Server OS: Windows Framework: .Net, Sharepoint DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: POS for Restaurant Integrated with Navintory P13</Description>
+          - <StartDate>
+            <YearMonth>2014-02</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2014-03</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-16</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>Project Site</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Desc.: POS application in Windows 8 for restaurant that integrates with previous project (Navintory). Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C#, WPF Xaml Server OS: Windows 8 Framework: .Net, AngularJS DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: - Other Info: -</Description>
+          - <StartDate>
+            <YearMonth>2013-12</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2014-03</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-17</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Navcore Nextology</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Web based application for Inventory that can store any type of data with dynamic field like list in SharePoint. Technical Info: App Type: Web Based Dev language: C# Server OS: Windows Framework: .Net, AngularJS DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: -</Description>
+          - <StartDate>
+            <YearMonth>2013-07</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2013-12</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-18</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>Project Site</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Desc.: Windows 8 Mobile Broadband Application for Indosat. Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: -</Description>
+          - <StartDate>
+            <YearMonth>2012-12</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2013-03</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-21</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Navcore Nextology</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Windows 8 Mobile Application for Gramedia news Reader Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: -</Description>
+          - <StartDate>
+            <YearMonth>2012-11</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2012-12</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-22</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Navcore Nextology</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Windows 8 Mobile Application for Gramedia news Reader Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: -</Description>
+          - <StartDate>
+            <YearMonth>2012-11</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2012-11</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-23</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Navcore Nextology</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Windows 8 Mobile Application for Gramedia news Reader Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: -</Description>
+          - <StartDate>
+            <YearMonth>2012-10</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2012-11</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-24</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>PT. Navcore Nextology</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Windows 8 Mobile Application for Gramedia news Reader Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - I hereby declare that all information above is true and correct to the best of my knowledge. Bandung, April 16</Description>
+          - <StartDate>
+            <YearMonth>2012-10</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2012-10</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-25</sov:Id>
+              <sov:CompanyNameProbability>12</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>SQLite</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>SQLite</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Dev Tools: Intel XDK App Server: - Other Info: - Project Name: POC Mobile Work Force for Finance P11 Role: Programmer Period From: Mar.2014 To: Jul. 2014 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: A proof of concept Windows Phone based application that surveying a customer for credit purpose and integration with Windows azure. Technical Info: App Type: Mobile Application Dev language: C# Server OS: Windows Framework: .Net DB: SQLite Dev Tools: Microsoft Visual Studio App Server: - Other Info: - Project Name: E-correspondences for internal purpose P12</Description>
+          - <StartDate>
+            <YearMonth>2014-03</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2014-07</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-15</sov:Id>
+              <sov:CompanyNameProbability>8</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>Centre POC</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>Centre POC</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Windows 8 Application for BIN Command Centre. Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: -</Description>
+          - <StartDate>
+            <YearMonth>2013-06</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2013-07</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-19</sov:Id>
+              <sov:CompanyNameProbability>17</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+      - <EmployerOrg>
+        <EmployerOrgName>8 For Grand Preanger Hotel</EmployerOrgName>
+        - <PositionHistory positionType="directHire">
+          <Title>Programmer</Title>
+          - <OrgName>
+            <OrganizationName>8 For Grand Preanger Hotel</OrganizationName>
+          </OrgName>
+          - <OrgInfo>
+            - <PositionLocation>
+              <CountryCode>ID</CountryCode>
+              <Municipality>Jakarta</Municipality>
+            </PositionLocation>
+          </OrgInfo>
+          <Description>Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: POS application for restaurant integrates with Hotel Management Systems. Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: Mobile Broadband Account Experience For Telco Provider P17</Description>
+          - <StartDate>
+            <YearMonth>2013-03</YearMonth>
+          </StartDate>
+          - <EndDate>
+            <YearMonth>2013-06</YearMonth>
+          </EndDate>
+          - <UserArea>
+            - <sov:PositionHistoryUserArea>
+              <sov:Id>POS-20</sov:Id>
+              <sov:CompanyNameProbability>13</sov:CompanyNameProbability>
+              <sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+            </sov:PositionHistoryUserArea>
+          </UserArea>
+        </PositionHistory>
+      </EmployerOrg>
+    </EmploymentHistory>
+    - <EducationHistory>
+      - <SchoolOrInstitution schoolType="UNSPECIFIED">
+        - <Degree>
+          <DegreeName>Diploma</DegreeName>
+          - <DegreeDate>
+            <Year>2012</Year>
+          </DegreeDate>
+          - <DegreeMajor>
+            <Name>Informatics</Name>
+          </DegreeMajor>
+          - <DegreeMeasure>
+            - <EducationalMeasure>
+              <MeasureSystem>GPA</MeasureSystem>
+              - <MeasureValue>
+                <StringValue>3.44</StringValue>
+              </MeasureValue>
+              - <LowestPossibleValue>
+                <StringValue>0</StringValue>
+              </LowestPossibleValue>
+              - <HighestPossibleValue>
+                <StringValue>4</StringValue>
+              </HighestPossibleValue>
+            </EducationalMeasure>
+          </DegreeMeasure>
+          - <DatesOfAttendance>
+            - <StartDate>
+              <Year>2009</Year>
+            </StartDate>
+            - <EndDate>
+              <Year>2012</Year>
+            </EndDate>
+          </DatesOfAttendance>
+          <Comments>School Degree Subject From To GPA Politeknik Negeri Bandung (POLBAN) Diploma Majoring in Informatics 2009 2012 3.44 out Engineering of 4</Comments>
+          - <UserArea>
+            - <sov:DegreeUserArea>
+              <sov:Id>DEG-1</sov:Id>
+              <sov:NormalizedGPA>0.860</sov:NormalizedGPA>
+            </sov:DegreeUserArea>
+          </UserArea>
+        </Degree>
+      </SchoolOrInstitution>
+      - <SchoolOrInstitution schoolType="UNSPECIFIED">
+        - <Degree degreeType="certification">
+          <DegreeName>Certificate</DegreeName>
+          - <DatesOfAttendance>
+            - <StartDate>
+              <Year>2013</Year>
+            </StartDate>
+            - <EndDate>
+              <Year>2016</Year>
+            </EndDate>
+          </DatesOfAttendance>
+          <Comments>Universitas Pasundan (UNPAS) S1 Majoring in Informatics 2013 2016 3.49 out Engineering of 4 C. COURSE,TRAINING (From the most recent) No Title Provider Place Date , Duration Certificate</Comments>
+          - <UserArea>
+            - <sov:DegreeUserArea>
+              <sov:Id>DEG-2</sov:Id>
+              <sov:Graduated>false</sov:Graduated>
+            </sov:DegreeUserArea>
+          </UserArea>
+        </Degree>
+      </SchoolOrInstitution>
+      - <SchoolOrInstitution schoolType="UNSPECIFIED">
+        - <Degree degreeType="certification">
+          <DegreeName>Certification</DegreeName>
+          - <DegreeDate>
+            <YearMonth>2015-07</YearMonth>
+          </DegreeDate>
+          - <DatesOfAttendance>
+            - <StartDate>
+              <AnyDate>notKnown</AnyDate>
+            </StartDate>
+            - <EndDate>
+              <YearMonth>2015-07</YearMonth>
+            </EndDate>
+          </DatesOfAttendance>
+          <Comments>1 Analyst Programmer Certification PT. Mitrais Indonesia, July 2015, 10 Days n/a Program - Software Configuration Bandung Management</Comments>
+          - <UserArea>
+            - <sov:DegreeUserArea>
+              <sov:Id>DEG-3</sov:Id>
+            </sov:DegreeUserArea>
+          </UserArea>
+        </Degree>
+      </SchoolOrInstitution>
+      - <SchoolOrInstitution schoolType="UNSPECIFIED">
+        - <Degree degreeType="certification">
+          <DegreeName>Certification</DegreeName>
+          <Comments>2 Analyst Programmer Certification PT. Mitrais Indonesia, February 2015, 10 n/a Program - Software Maintenance Bandung days</Comments>
+          - <UserArea>
+            - <sov:DegreeUserArea>
+              <sov:Id>DEG-4</sov:Id>
+            </sov:DegreeUserArea>
+          </UserArea>
+        </Degree>
+      </SchoolOrInstitution>
+      - <SchoolOrInstitution schoolType="trade">
+        - <School>
+          <SchoolName>Microsoft Virtual Academy(MVA)</SchoolName>
+        </School>
+        - <Degree degreeType="certification">
+          <DegreeName>Certificate Of Learning</DegreeName>
+          - <DegreeDate>
+            <YearMonth>2012-11</YearMonth>
+          </DegreeDate>
+          - <DatesOfAttendance>
+            - <StartDate>
+              <AnyDate>notKnown</AnyDate>
+            </StartDate>
+            - <EndDate>
+              <YearMonth>2012-11</YearMonth>
+            </EndDate>
+          </DatesOfAttendance>
+          <Comments>5 Microsoft Fast Track Program Microsoft Indonesia Indonesia, November 2012, 1 n/a Jakarta Month 6 Microsoft Virtual Academy(MVA) Microsoft Online July 2012 n/a Certificate Of Learning - Developing Course in HTML5 with JavaScript and CSS3 Jump Start</Comments>
+          - <UserArea>
+            - <sov:DegreeUserArea>
+              <sov:Id>DEG-5</sov:Id>
+            </sov:DegreeUserArea>
+          </UserArea>
+        </Degree>
+      </SchoolOrInstitution>
+    </EducationHistory>
+    - <LicensesAndCertifications>
+      - <LicenseOrCertification>
+        <Name>Certificate</Name>
+        <Description>certification</Description>
+      </LicenseOrCertification>
+    </LicensesAndCertifications>
+    - <Qualifications>
+      - <Competency name=".NET">
+        <CompetencyId id="023039" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name=".NET" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-15; POS-16; POS-17; POS-18; POS-19; POS-2; POS-20; POS-21; POS-22; POS-23; POS-24; POS-25; POS-3; POS-6; POS-8" typeId="023039" lastUsed="2015-10-31">
+          <NumericValue description="Total Months">66</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name=".NET">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ACCOUNT EXPERIENCE">
+        <CompetencyId id="030176" />
+        <TaxonomyId id="104" idOwner="20" description="Sovren" />
+        - <CompetencyEvidence name="Account Experience" typeDescription="Found in WORK HISTORY; POS-20" typeId="030176" lastUsed="2013-06-01">
+          <NumericValue description="Total Months">3</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Account Experience">
+          <StringValue description="taxonomies">Sales → Account Management</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ANDROID">
+        <CompetencyId id="5520503" />
+        <TaxonomyId id="552" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Android" typeDescription="Found in WORK HISTORY; POS-14" typeId="5520503" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Android">
+          <StringValue description="taxonomies">Information Technology → Mobile Applications</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ANDROID">
+        <CompetencyId id="7310008" />
+        <TaxonomyId id="731" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Android" typeDescription="Found in WORK HISTORY; POS-14" typeId="7310008" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Android">
+          <StringValue description="taxonomies">Information Technology → User Interface</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ANGULARJS">
+        <CompetencyId id="5520505" />
+        <TaxonomyId id="552" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="AngularJS" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-17; POS-18" typeId="5520505" lastUsed="2015-06-01">
+          <NumericValue description="Total Months">17</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="AngularJS">
+          <StringValue description="taxonomies">Information Technology → Mobile Applications</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="APACHE">
+        <CompetencyId id="021093" />
+        <TaxonomyId id="203" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Apache" typeDescription="Found in WORK HISTORY; POS-10; POS-5; POS-9" typeId="021093" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">14</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Apache">
+          <StringValue description="taxonomies">Information Technology → UNIX and LINUX</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="APACHE">
+        <CompetencyId id="025565" />
+        <TaxonomyId id="311" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="Apache" typeDescription="Found in WORK HISTORY; POS-10; POS-5; POS-9" typeId="025565" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">14</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Apache">
+          <StringValue description="taxonomies">Engineering → Air and Aerospace</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="API">
+        <CompetencyId id="021195" />
+        <TaxonomyId id="924" idOwner="26" description="Sovren" />
+        - <CompetencyEvidence name="API" typeDescription="Found in WORK HISTORY; POS-14" typeId="021195" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="API">
+          <StringValue description="taxonomies">Power Engineering → Non-Nuclear Power Misc</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="API">
+        <CompetencyId id="021194" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="API" typeDescription="Found in WORK HISTORY; POS-14" typeId="021194" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="API">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ASP">
+        <CompetencyId id="004324" />
+        <TaxonomyId id="196" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="ASP" typeDescription="Found in WORK HISTORY; POS-7" typeId="004324" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="ASP">
+          <StringValue description="taxonomies">Information Technology → Internet</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ASP.NET">
+        <CompetencyId id="004334" idOwner="025409" />
+        <TaxonomyId id="196" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="ASP.Net" typeDescription="Found in WORK HISTORY; POS-7" typeId="004334" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="ASP.Net">
+          <StringValue description="taxonomies">Information Technology → Internet</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="C#">
+        <CompetencyId id="012275" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="C#" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-15; POS-16; POS-17; POS-18; POS-19; POS-20; POS-21; POS-22; POS-23; POS-24; POS-25; POS-6; POS-7; POS-8" typeId="012275" lastUsed="2015-10-31">
+          <NumericValue description="Total Months">37</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="C#">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="CORRESPONDENCE">
+        <CompetencyId id="023773" />
+        <TaxonomyId id="413" idOwner="19" description="Sovren" />
+        - <CompetencyEvidence name="correspondence" typeDescription="Found in WORK HISTORY; POS-16" typeId="023773" lastUsed="2014-03-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="correspondence">
+          <StringValue description="taxonomies">Insurance → Techniques</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="CORRESPONDENCE">
+        <CompetencyId id="023772" />
+        <TaxonomyId id="109" idOwner="1" description="Sovren" />
+        - <CompetencyEvidence name="correspondence" typeDescription="Found in WORK HISTORY; POS-16" typeId="023772" lastUsed="2014-03-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="correspondence">
+          <StringValue description="taxonomies">Administrative or Clerical → Stenography, Typing, Filing</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="CREDIT">
+        <CompetencyId id="022227" />
+        <TaxonomyId id="437" idOwner="34" description="Sovren" />
+        - <CompetencyEvidence name="credit" typeDescription="Found in WORK HISTORY; POS-15" typeId="022227" lastUsed="2014-07-01">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="credit">
+          <StringValue description="taxonomies">Business Operations and General Business → General Skills and Activities</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="CREDIT">
+        <CompetencyId id="022229" />
+        <TaxonomyId id="533" idOwner="89" description="Sovren" />
+        - <CompetencyEvidence name="credit" typeDescription="Found in WORK HISTORY; POS-15" typeId="022229" lastUsed="2014-07-01">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="credit">
+          <StringValue description="taxonomies">Bookkeeping, Office Management → Bookeeping Tasks</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="CREDIT">
+        <CompetencyId id="022226" />
+        <TaxonomyId id="940" idOwner="32" description="Sovren" />
+        - <CompetencyEvidence name="credit" typeDescription="Found in WORK HISTORY; POS-15" typeId="022226" lastUsed="2014-07-01">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="credit">
+          <StringValue description="taxonomies">Degreed Accounting → Accounts Receivable</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="CREDIT">
+        <CompetencyId id="014614" />
+        <TaxonomyId id="121" idOwner="81" description="Sovren" />
+        - <CompetencyEvidence name="credit" typeDescription="Found in WORK HISTORY; POS-15" typeId="014614" lastUsed="2014-07-01">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="credit">
+          <StringValue description="taxonomies">Banking and Related → Credit</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DATA INTEGRATION">
+        <CompetencyId id="5530949" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Data integration" typeDescription="Found in WORK HISTORY; POS-8" typeId="5530949" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Data integration">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DATA MIGRATION">
+        <CompetencyId id="5530953" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Data Migration" typeDescription="Found in WORK HISTORY; POS-8" typeId="5530953" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Data Migration">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DATA MIGRATION">
+        <CompetencyId id="014990" />
+        <TaxonomyId id="193" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Data Migration" typeDescription="Found in WORK HISTORY; POS-8" typeId="014990" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Data Migration">
+          <StringValue description="taxonomies">Information Technology → Database</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DATABASE">
+        <CompetencyId id="015022" />
+        <TaxonomyId id="228" idOwner="0" description="Sovren" />
+        - <CompetencyEvidence name="database" typeDescription="Found in WORK HISTORY; POS-8" typeId="015022" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="database">
+          <StringValue description="taxonomies">Common End-user Software → Data Centric</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DATABASE">
+        <CompetencyId id="022486" />
+        <TaxonomyId id="201" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="database" typeDescription="Found in WORK HISTORY; POS-8" typeId="022486" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="database">
+          <StringValue description="taxonomies">Information Technology → Architecture</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DATABASE DESIGN">
+        <CompetencyId id="015032" idOwner="022486" />
+        <TaxonomyId id="201" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="database design" typeDescription="Found in WORK HISTORY" typeId="015032">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="database design">
+          <StringValue description="taxonomies">Information Technology → Architecture</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DB2">
+        <CompetencyId id="5530738" />
+        <TaxonomyId id="553" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="db2" typeDescription="Found in WORK HISTORY; POS-8" typeId="5530738" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="db2">
+          <StringValue description="taxonomies">Information Technology → Big Data</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DB2">
+        <CompetencyId id="015075" />
+        <TaxonomyId id="193" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="db2" typeDescription="Found in WORK HISTORY; POS-8" typeId="015075" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="db2">
+          <StringValue description="taxonomies">Information Technology → Database</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DMS">
+        <CompetencyId id="015533" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="DMS" typeDescription="Found in WORK HISTORY; POS-8" typeId="015533" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="DMS">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="DMS">
+        <CompetencyId id="015532" />
+        <TaxonomyId id="317" idOwner="16" description="Sovren" />
+        - <CompetencyEvidence name="DMS" typeDescription="Found in WORK HISTORY; POS-8" typeId="015532" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="DMS">
+          <StringValue description="taxonomies">Telecommunications → Standards, Protocols, Technologies</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ECLIPSE">
+        <CompetencyId id="015844" />
+        <TaxonomyId id="339" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Eclipse" typeDescription="Found in WORK HISTORY; POS-5" typeId="015844" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">12</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Eclipse">
+          <StringValue description="taxonomies">Information Technology → Java</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ENGINEER">
+        <CompetencyId id="080650" />
+        <TaxonomyId id="263" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="Engineer" typeDescription="Found in WORK HISTORY; POS-1; POS-2; POS-4" typeId="080650" lastUsed="2016-03-01">
+          <NumericValue description="Total Months">20</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Engineer">
+          <StringValue description="taxonomies">Engineering → Other</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ENGINEER">
+        <CompetencyId id="080540" />
+        <TaxonomyId id="307" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="Engineer" typeDescription="Found in WORK HISTORY; POS-1; POS-2; POS-4" typeId="080540" lastUsed="2016-03-01">
+          <NumericValue description="Total Months">20</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Engineer">
+          <StringValue description="taxonomies">Engineering → General Engineering</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="FINANCE">
+        <CompetencyId id="023147" />
+        <TaxonomyId id="243" idOwner="7" description="Sovren" />
+        - <CompetencyEvidence name="Finance" typeDescription="Found in WORK HISTORY; POS-15" typeId="023147" lastUsed="2014-07-01">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Finance">
+          <StringValue description="taxonomies">Finance → Other</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="Git">
+        <CompetencyId id="1004755" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Git" typeDescription="Found in WORK HISTORY; POS-5" typeId="1004755" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">12</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Git">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="HR">
+        <CompetencyId id="019094" />
+        <TaxonomyId id="262" idOwner="9" description="Sovren" />
+        - <CompetencyEvidence name="HR" typeDescription="Found in WORK HISTORY; POS-14; POS-15; POS-16; POS-17; POS-18; POS-19; POS-20; POS-21; POS-22; POS-23; POS-24; POS-25" typeId="019094" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">26</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="HR">
+          <StringValue description="taxonomies">Human Resources → Other</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="HTML">
+        <CompetencyId id="019115" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="HTML" typeDescription="Found in EDUCATION; TRAINING; WORK HISTORY; POS-14" typeId="019115" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="HTML">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="HTML5">
+        <CompetencyId id="5520541" />
+        <TaxonomyId id="552" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="HTML5" typeDescription="Found in EDUCATION; DEG-5" typeId="5520541" lastUsed="2012-11-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="HTML5">
+          <StringValue description="taxonomies">Information Technology → Mobile Applications</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="IIS">
+        <CompetencyId id="3490027" />
+        <TaxonomyId id="349" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="IIS" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-16; POS-18; POS-19; POS-20; POS-21; POS-22; POS-23; POS-24; POS-25; POS-6; POS-8" typeId="3490027" lastUsed="2015-10-31">
+          <NumericValue description="Total Months">29</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="IIS">
+          <StringValue description="taxonomies">Information Technology → Operations, Monitoring and Software Management</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="IIS">
+        <CompetencyId id="002902" idOwner="022134" />
+        <TaxonomyId id="196" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="IIS" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-16; POS-18; POS-19; POS-20; POS-21; POS-22; POS-23; POS-24; POS-25; POS-6; POS-8" typeId="002902" lastUsed="2015-10-31">
+          <NumericValue description="Total Months">29</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="IIS">
+          <StringValue description="taxonomies">Information Technology → Internet</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="INTEGRATION">
+        <CompetencyId id="5570147" idOwner="5570146" />
+        <TaxonomyId id="571" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="integration" typeDescription="Found in WORK HISTORY; POS-15; POS-8" typeId="5570147" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">5</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="integration">
+          <StringValue description="taxonomies">User Experience → Web Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="INTEGRATOR">
+        <CompetencyId id="5570146" />
+        <TaxonomyId id="571" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="INTEGRATOR" typeDescription="Found in WORK HISTORY; POS-15; POS-8" typeId="5570146" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">5</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="INTEGRATOR">
+          <StringValue description="taxonomies">User Experience → Web Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="INTEL XDK">
+        <CompetencyId id="5520544" />
+        <TaxonomyId id="552" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Intel XDK" typeDescription="Found in WORK HISTORY; POS-15" typeId="5520544" lastUsed="2014-07-01">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Intel XDK">
+          <StringValue description="taxonomies">Information Technology → Mobile Applications</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="INTERFACE DESIGN">
+        <CompetencyId id="0103222" idOwner="024481" />
+        <TaxonomyId id="134" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="interface design" typeDescription="Found in WORK HISTORY" typeId="0103222">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="interface design">
+          <StringValue description="taxonomies">Engineering → Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="INTERFACE DESIGN">
+        <CompetencyId id="0103232" idOwner="024480" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="interface design" typeDescription="Found in WORK HISTORY" typeId="0103232">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="interface design">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="INTERNET INFORMATION SERVICES">
+        <CompetencyId id="022134" />
+        <TaxonomyId id="196" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="INTERNET INFORMATION SERVICES" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-16; POS-18; POS-19; POS-20; POS-21; POS-22; POS-23; POS-24; POS-25; POS-6; POS-8" typeId="022134" lastUsed="2015-10-31">
+          <NumericValue description="Total Months">29</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="INTERNET INFORMATION SERVICES">
+          <StringValue description="taxonomies">Information Technology → Internet</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="INVENTORY">
+        <CompetencyId id="020086" />
+        <TaxonomyId id="459" idOwner="97" description="Sovren" />
+        - <CompetencyEvidence name="Inventory" typeDescription="Found in WORK HISTORY; POS-18" typeId="020086" lastUsed="2013-12-01">
+          <NumericValue description="Total Months">5</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Inventory">
+          <StringValue description="taxonomies">Purchasing, Procurement, Inventory Control, Supply Chain → Inventory</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="IPAD">
+        <CompetencyId id="5520547" />
+        <TaxonomyId id="552" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="iPad" typeDescription="Found in WORK HISTORY; POS-14" typeId="5520547" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="iPad">
+          <StringValue description="taxonomies">Information Technology → Mobile Applications</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="IPHONE">
+        <CompetencyId id="5520548" />
+        <TaxonomyId id="552" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="iPhone" typeDescription="Found in WORK HISTORY; POS-14" typeId="5520548" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="iPhone">
+          <StringValue description="taxonomies">Information Technology → Mobile Applications</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="JAKARTA">
+        <CompetencyId id="020261" idOwner="026009" />
+        <TaxonomyId id="339" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Jakarta" typeDescription="Found in EDUCATION; TRAINING; WORK HISTORY; DEG-5; POS-8" typeId="020261" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Jakarta">
+          <StringValue description="taxonomies">Information Technology → Java</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="JAVA">
+        <CompetencyId id="023328" />
+        <TaxonomyId id="339" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Java" typeDescription="Found in WORK HISTORY; POS-5" typeId="023328" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">12</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Java">
+          <StringValue description="taxonomies">Information Technology → Java</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="JAVASCRIPT">
+        <CompetencyId id="025394" />
+        <TaxonomyId id="339" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="JavaScript" typeDescription="Found in EDUCATION; DEG-5" typeId="025394" lastUsed="2012-11-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="JavaScript">
+          <StringValue description="taxonomies">Information Technology → Java</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="jQuery">
+        <CompetencyId id="339048" />
+        <TaxonomyId id="339" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="jQuery" typeDescription="Found in WORK HISTORY; POS-14" typeId="339048" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="jQuery">
+          <StringValue description="taxonomies">Information Technology → Java</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="LINUX">
+        <CompetencyId id="023926" />
+        <TaxonomyId id="144" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="Linux" typeDescription="Found in WORK HISTORY; POS-10; POS-9" typeId="023926" lastUsed="2015-07-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Linux">
+          <StringValue description="taxonomies">Engineering → Computer Hardware</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="LINUX">
+        <CompetencyId id="023925" />
+        <TaxonomyId id="203" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Linux" typeDescription="Found in WORK HISTORY; POS-10; POS-9" typeId="023925" lastUsed="2015-07-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Linux">
+          <StringValue description="taxonomies">Information Technology → UNIX and LINUX</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MAINTENANCE">
+        <CompetencyId id="022116" />
+        <TaxonomyId id="364" idOwner="13" description="Sovren" />
+        - <CompetencyEvidence name="Maintenance" typeDescription="Found in EDUCATION; DEG-4" typeId="022116">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Maintenance">
+          <StringValue description="taxonomies">Manufacturing → Equipment</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MAINTENANCE">
+        <CompetencyId id="022117" />
+        <TaxonomyId id="452" idOwner="72" description="Sovren" />
+        - <CompetencyEvidence name="Maintenance" typeDescription="Found in EDUCATION; DEG-4" typeId="022117">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Maintenance">
+          <StringValue description="taxonomies">Installation, Maintenance, Repair → General Repair</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MICROSOFT SHAREPOINT">
+        <CompetencyId id="5540951" />
+        <TaxonomyId id="554" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MICROSOFT SHAREPOINT" typeDescription="Found in WORK HISTORY; POS-16; POS-18" typeId="5540951" lastUsed="2014-03-01">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MICROSOFT SHAREPOINT">
+          <StringValue description="taxonomies">Information Technology → Business Intelligence</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MICROSOFT VISUAL STUDIO">
+        <CompetencyId id="022063" idOwner="023039" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Microsoft Visual Studio" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-15; POS-16; POS-17; POS-18; POS-19; POS-20; POS-21; POS-22; POS-23; POS-24; POS-25; POS-6; POS-8" typeId="022063" lastUsed="2015-10-31">
+          <NumericValue description="Total Months">36</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Microsoft Visual Studio">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MICROSOFT WINDOWS AZURE">
+        <CompetencyId id="5500354" />
+        <TaxonomyId id="550" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MICROSOFT WINDOWS AZURE" typeDescription="Found in WORK HISTORY; POS-15" typeId="5500354" lastUsed="2014-07-01">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MICROSOFT WINDOWS AZURE">
+          <StringValue description="taxonomies">Information Technology → Cloud Computing</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MODEL VIEW CONTROLLER">
+        <CompetencyId id="5520572" />
+        <TaxonomyId id="552" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MODEL VIEW CONTROLLER" typeDescription="Found in WORK HISTORY; POS-7" typeId="5520572" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MODEL VIEW CONTROLLER">
+          <StringValue description="taxonomies">Information Technology → Mobile Applications</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MODEL-VIEW-CONTROLLER">
+        <CompetencyId id="7310042" />
+        <TaxonomyId id="731" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MODEL-VIEW-CONTROLLER" typeDescription="Found in WORK HISTORY; POS-7" typeId="7310042" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MODEL-VIEW-CONTROLLER">
+          <StringValue description="taxonomies">Information Technology → User Interface</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MS ASP">
+        <CompetencyId id="025409" />
+        <TaxonomyId id="196" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MS ASP" typeDescription="Found in WORK HISTORY; POS-7" typeId="025409" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MS ASP">
+          <StringValue description="taxonomies">Information Technology → Internet</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MS SQL SERVER">
+        <CompetencyId id="023733" />
+        <TaxonomyId id="193" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MS SQL SERVER" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-16; POS-17; POS-18; POS-19; POS-20; POS-21; POS-22; POS-23; POS-24; POS-25; POS-6; POS-8" typeId="023733" lastUsed="2015-10-31">
+          <NumericValue description="Total Months">32</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MS SQL SERVER">
+          <StringValue description="taxonomies">Information Technology → Database</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MVC">
+        <CompetencyId id="003233" />
+        <TaxonomyId id="201" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MVC." typeDescription="Found in WORK HISTORY; POS-7" typeId="003233" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MVC.">
+          <StringValue description="taxonomies">Information Technology → Architecture</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MVC">
+        <CompetencyId id="7310043" idOwner="7310042" />
+        <TaxonomyId id="731" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MVC." typeDescription="Found in WORK HISTORY; POS-7" typeId="7310043" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MVC.">
+          <StringValue description="taxonomies">Information Technology → User Interface</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MVC">
+        <CompetencyId id="552057201" idOwner="5520572" />
+        <TaxonomyId id="552" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MVC." typeDescription="Found in WORK HISTORY; POS-7" typeId="552057201" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MVC.">
+          <StringValue description="taxonomies">Information Technology → Mobile Applications</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="MYSQL">
+        <CompetencyId id="003243" />
+        <TaxonomyId id="193" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="MySql." typeDescription="Found in WORK HISTORY; POS-9" typeId="003243" lastUsed="2015-07-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="MySql.">
+          <StringValue description="taxonomies">Information Technology → Database</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="ORACLE">
+        <CompetencyId id="031048" />
+        <TaxonomyId id="193" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Oracle" typeDescription="Found in WORK HISTORY; POS-5" typeId="031048" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">12</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Oracle">
+          <StringValue description="taxonomies">Information Technology → Database</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="OUTLOOK">
+        <CompetencyId id="024344" />
+        <TaxonomyId id="108" idOwner="0" description="Sovren" />
+        - <CompetencyEvidence name="outlook" typeDescription="Found in WORK HISTORY; POS-14" typeId="024344" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="outlook">
+          <StringValue description="taxonomies">Common End-user Software → Core Office</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="P3">
+        <CompetencyId id="004198" />
+        <TaxonomyId id="310" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="P3" typeDescription="Found in WORK HISTORY; POS-7" typeId="004198" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="P3">
+          <StringValue description="taxonomies">Engineering → Software and Tools</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="P3">
+        <CompetencyId id="004199" />
+        <TaxonomyId id="308" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="P3" typeDescription="Found in WORK HISTORY; POS-7" typeId="004199" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="P3">
+          <StringValue description="taxonomies">Engineering → Power Engineering</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="P3">
+        <CompetencyId id="004200" />
+        <TaxonomyId id="924" idOwner="26" description="Sovren" />
+        - <CompetencyEvidence name="P3" typeDescription="Found in WORK HISTORY; POS-7" typeId="004200" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="P3">
+          <StringValue description="taxonomies">Power Engineering → Non-Nuclear Power Misc</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="PHP">
+        <CompetencyId id="004736" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="PHP" typeDescription="Found in WORK HISTORY; POS-9" typeId="004736" lastUsed="2015-07-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="PHP">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="POINT OF SALE">
+        <CompetencyId id="1400219" />
+        <TaxonomyId id="226" idOwner="14" description="Sovren" />
+        - <CompetencyEvidence name="POINT OF SALE" typeDescription="Found in WORK HISTORY; POS-16; POS-17; POS-20" typeId="1400219" lastUsed="2014-03-01">
+          <NumericValue description="Total Months">7</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="POINT OF SALE">
+          <StringValue description="taxonomies">Marketing → Channel Management</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="POS">
+        <CompetencyId id="1400220" idOwner="1400219" />
+        <TaxonomyId id="226" idOwner="14" description="Sovren" />
+        - <CompetencyEvidence name="POS" typeDescription="Found in WORK HISTORY; POS-16; POS-17; POS-20" typeId="1400220" lastUsed="2014-03-01">
+          <NumericValue description="Total Months">7</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="POS">
+          <StringValue description="taxonomies">Marketing → Channel Management</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="RECRUITMENT">
+        <CompetencyId id="006646" />
+        <TaxonomyId id="190" idOwner="9" description="Sovren" />
+        - <CompetencyEvidence name="Recruitment" typeDescription="Found in WORK HISTORY; POS-10; POS-11; POS-9" typeId="006646" lastUsed="2015-07-01">
+          <NumericValue description="Total Months">3</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Recruitment">
+          <StringValue description="taxonomies">Human Resources → Recruitment & Staffing</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SECURE FILE TRANSFER PROTOCOL">
+        <CompetencyId id="5551225" />
+        <TaxonomyId id="556" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="SECURE FILE TRANSFER PROTOCOL" typeDescription="Found in WORK HISTORY; POS-8" typeId="5551225" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="SECURE FILE TRANSFER PROTOCOL">
+          <StringValue description="taxonomies">Information Technology → Privacy and Data Security</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SFTP">
+        <CompetencyId id="5551226" idOwner="5551225" />
+        <TaxonomyId id="556" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="sftp" typeDescription="Found in WORK HISTORY; POS-8" typeId="5551226" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="sftp">
+          <StringValue description="taxonomies">Information Technology → Privacy and Data Security</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SHAREPOINT">
+        <CompetencyId id="022195" />
+        <TaxonomyId id="196" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="SharePoint" typeDescription="Found in WORK HISTORY; POS-16; POS-18" typeId="022195" lastUsed="2014-03-01">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="SharePoint">
+          <StringValue description="taxonomies">Information Technology → Internet</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SHAREPOINT">
+        <CompetencyId id="554095101" idOwner="5540951" />
+        <TaxonomyId id="554" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="SharePoint" typeDescription="Found in WORK HISTORY; POS-16; POS-18" typeId="554095101" lastUsed="2014-03-01">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="SharePoint">
+          <StringValue description="taxonomies">Information Technology → Business Intelligence</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SOFTWARE CONFIGURATION">
+        <CompetencyId id="022478" />
+        <TaxonomyId id="251" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Software Configuration" typeDescription="Found in EDUCATION; DEG-3" typeId="022478" lastUsed="2015-07-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Software Configuration">
+          <StringValue description="taxonomies">Information Technology → Config Deploy Upgrade Migrate</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SOFTWARE ENGINEER">
+        <CompetencyId id="008220" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Software Engineer" typeDescription="Found in WORK HISTORY; POS-1; POS-2; POS-4" typeId="008220" lastUsed="2016-03-01">
+          <NumericValue description="Total Months">20</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Software Engineer">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SQL">
+        <CompetencyId id="008481" />
+        <TaxonomyId id="193" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="SQL" typeDescription="Found in WORK HISTORY; POS-10; POS-11; POS-12; POS-13; POS-16; POS-17; POS-18; POS-19; POS-20; POS-21; POS-22; POS-23; POS-24; POS-25; POS-6; POS-8; POS-9" typeId="008481" lastUsed="2015-10-31">
+          <NumericValue description="Total Months">34</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="SQL">
+          <StringValue description="taxonomies">Information Technology → Database</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SQL SERVER">
+        <CompetencyId id="008483" idOwner="023733" />
+        <TaxonomyId id="193" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="SQL Server" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-16; POS-17; POS-18; POS-19; POS-20; POS-21; POS-22; POS-23; POS-24; POS-25; POS-6; POS-8" typeId="008483" lastUsed="2015-10-31">
+          <NumericValue description="Total Months">32</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="SQL Server">
+          <StringValue description="taxonomies">Information Technology → Database</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="STRUTS">
+        <CompetencyId id="026009" />
+        <TaxonomyId id="339" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="STRUTS" typeDescription="Found in EDUCATION; TRAINING; WORK HISTORY; DEG-5; POS-8" typeId="026009" lastUsed="2015-07-31">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="STRUTS">
+          <StringValue description="taxonomies">Information Technology → Java</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="SURVEYING">
+        <CompetencyId id="022753" />
+        <TaxonomyId id="298" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="surveying" typeDescription="Found in WORK HISTORY; POS-15" typeId="022753" lastUsed="2014-07-01">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="surveying">
+          <StringValue description="taxonomies">Engineering → Surveying</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="TELCO">
+        <CompetencyId id="1980033" />
+        <TaxonomyId id="198" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Telco" typeDescription="Found in WORK HISTORY; POS-20" typeId="1980033" lastUsed="2013-06-01">
+          <NumericValue description="Total Months">3</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Telco">
+          <StringValue description="taxonomies">Information Technology → Network</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="TELCO">
+        <CompetencyId id="009278" />
+        <TaxonomyId id="316" idOwner="16" description="Sovren" />
+        - <CompetencyEvidence name="Telco" typeDescription="Found in WORK HISTORY; POS-20" typeId="009278" lastUsed="2013-06-01">
+          <NumericValue description="Total Months">3</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Telco">
+          <StringValue description="taxonomies">Telecommunications → Central Office</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="TESTING">
+        <CompetencyId id="009472" />
+        <TaxonomyId id="446" idOwner="69" description="Sovren" />
+        - <CompetencyEvidence name="testing" typeDescription="Found in WORK HISTORY" typeId="009472">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="testing">
+          <StringValue description="taxonomies">QA and QC → Techniques</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="TOMCAT">
+        <CompetencyId id="009664" />
+        <TaxonomyId id="196" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Tomcat" typeDescription="Found in WORK HISTORY; POS-5" typeId="009664" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">12</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Tomcat">
+          <StringValue description="taxonomies">Information Technology → Internet</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="TRAINING">
+        <CompetencyId id="200064" />
+        <TaxonomyId id="903" idOwner="92" description="Sovren" />
+        - <CompetencyEvidence name="TRAINING" typeDescription="Found in EDUCATION; DEG-2" typeId="200064" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">46</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="TRAINING">
+          <StringValue description="taxonomies">Knowledge and Learning Management → Knowledge and Learning Management</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="UI">
+        <CompetencyId id="7310068" idOwner="7310067" />
+        <TaxonomyId id="731" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="UI" typeDescription="Found in WORK HISTORY; POS-16; POS-7" typeId="7310068" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="UI">
+          <StringValue description="taxonomies">Information Technology → User Interface</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="UI DESIGN">
+        <CompetencyId id="5570165" />
+        <TaxonomyId id="573" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="UI DESIGN" typeDescription="Found in WORK HISTORY" typeId="5570165">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="UI DESIGN">
+          <StringValue description="taxonomies">User Experience → Product Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="UI DESIGN">
+        <CompetencyId id="5570023" />
+        <TaxonomyId id="560" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="UI DESIGN" typeDescription="Found in WORK HISTORY" typeId="5570023">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="UI DESIGN">
+          <StringValue description="taxonomies">User Experience → UX Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="UI DESIGN">
+        <CompetencyId id="5570048" />
+        <TaxonomyId id="562" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="UI DESIGN" typeDescription="Found in WORK HISTORY" typeId="5570048">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="UI DESIGN">
+          <StringValue description="taxonomies">User Experience → Interaction Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="UI DESIGNER">
+        <CompetencyId id="010126" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="UI Designer" typeDescription="Found in WORK HISTORY; POS-16" typeId="010126" lastUsed="2014-03-01">
+          <NumericValue description="Total Months">1</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="UI Designer">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="USER INTERFACE">
+        <CompetencyId id="1400245" />
+        <TaxonomyId id="599" idOwner="14" description="Sovren" />
+        - <CompetencyEvidence name="user interface" typeDescription="Found in WORK HISTORY" typeId="1400245">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="user interface">
+          <StringValue description="taxonomies">Marketing → Digital</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="USER INTERFACE">
+        <CompetencyId id="7310067" />
+        <TaxonomyId id="731" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="user interface" typeDescription="Found in WORK HISTORY; POS-16; POS-7" typeId="7310067" lastUsed="2015-09-01">
+          <NumericValue description="Total Months">2</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="user interface">
+          <StringValue description="taxonomies">Information Technology → User Interface</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="USER INTERFACE DESIGN">
+        <CompetencyId id="5570080" />
+        <TaxonomyId id="565" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="user interface design" typeDescription="Found in WORK HISTORY" typeId="5570080">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="user interface design">
+          <StringValue description="taxonomies">User Experience → Visual Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="USER INTERFACE DESIGN">
+        <CompetencyId id="024480" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="user interface design" typeDescription="Found in WORK HISTORY" typeId="024480">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="user interface design">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="USER INTERFACE DESIGN">
+        <CompetencyId id="5570166" idOwner="5570165" />
+        <TaxonomyId id="573" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="user interface design" typeDescription="Found in WORK HISTORY" typeId="5570166">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="user interface design">
+          <StringValue description="taxonomies">User Experience → Product Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="USER INTERFACE DESIGN">
+        <CompetencyId id="024481" />
+        <TaxonomyId id="134" idOwner="5" description="Sovren" />
+        - <CompetencyEvidence name="user interface design" typeDescription="Found in WORK HISTORY" typeId="024481">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="user interface design">
+          <StringValue description="taxonomies">Engineering → Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="USER INTERFACE DESIGN">
+        <CompetencyId id="5570216" idOwner="5570023" />
+        <TaxonomyId id="560" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="user interface design" typeDescription="Found in WORK HISTORY" typeId="5570216">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="user interface design">
+          <StringValue description="taxonomies">User Experience → UX Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="USER INTERFACE DESIGN">
+        <CompetencyId id="5570066" />
+        <TaxonomyId id="564" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="user interface design" typeDescription="Found in WORK HISTORY" typeId="5570066">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="user interface design">
+          <StringValue description="taxonomies">User Experience → Motion Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="USER INTERFACE DESIGN">
+        <CompetencyId id="5570049" idOwner="5570048" />
+        <TaxonomyId id="562" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="user interface design" typeDescription="Found in WORK HISTORY" typeId="5570049">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="user interface design">
+          <StringValue description="taxonomies">User Experience → Interaction Design</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="USER INTERFACE DESIGN">
+        <CompetencyId id="5570011" />
+        <TaxonomyId id="558" idOwner="93" description="Sovren" />
+        - <CompetencyEvidence name="user interface design" typeDescription="Found in WORK HISTORY" typeId="5570011">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="user interface design">
+          <StringValue description="taxonomies">User Experience → User Research</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="VISUAL STUDIO">
+        <CompetencyId id="010645" idOwner="023039" />
+        <TaxonomyId id="204" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Visual Studio" typeDescription="Found in WORK HISTORY; POS-11; POS-12; POS-13; POS-15; POS-16; POS-17; POS-18; POS-19; POS-20; POS-21; POS-22; POS-23; POS-24; POS-25; POS-6; POS-8" typeId="010645" lastUsed="2015-10-31">
+          <NumericValue description="Total Months">36</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Visual Studio">
+          <StringValue description="taxonomies">Information Technology → Programming</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="WEB BASED">
+        <CompetencyId id="024402" />
+        <TaxonomyId id="196" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Web based" typeDescription="Found in WORK HISTORY; POS-10; POS-11; POS-12; POS-13; POS-18; POS-5; POS-6; POS-7; POS-9" typeId="024402" lastUsed="2016-11-10">
+          <NumericValue description="Total Months">31</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Web based">
+          <StringValue description="taxonomies">Information Technology → Internet</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="WINDOWS 8">
+        <CompetencyId id="027193" />
+        <TaxonomyId id="299" idOwner="0" description="Sovren" />
+        - <CompetencyEvidence name="Windows 8." typeDescription="Found in EDUCATION; TRAINING; WORK HISTORY; POS-14; POS-17; POS-19; POS-21; POS-22; POS-23; POS-24; POS-25" typeId="027193" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">13</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Windows 8.">
+          <StringValue description="taxonomies">Common End-user Software → Operating Systems</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="WINDOWS AZURE">
+        <CompetencyId id="550035402" idOwner="5500354" />
+        <TaxonomyId id="550" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Windows azure." typeDescription="Found in WORK HISTORY; POS-15" typeId="550035402" lastUsed="2014-07-01">
+          <NumericValue description="Total Months">4</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Windows azure.">
+          <StringValue description="taxonomies">Information Technology → Cloud Computing</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="WINDOWS PHONE">
+        <CompetencyId id="7310075" />
+        <TaxonomyId id="731" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Windows Phone" typeDescription="Found in WORK HISTORY; POS-14; POS-15" typeId="7310075" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Windows Phone">
+          <StringValue description="taxonomies">Information Technology → User Interface</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="WINDOWS PHONE">
+        <CompetencyId id="5520623" />
+        <TaxonomyId id="552" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="Windows Phone" typeDescription="Found in WORK HISTORY; POS-14; POS-15" typeId="5520623" lastUsed="2014-09-01">
+          <NumericValue description="Total Months">6</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="Windows Phone">
+          <StringValue description="taxonomies">Information Technology → Mobile Applications</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="WINDOWS PRESENTATION FOUNDATION">
+        <CompetencyId id="7310076" />
+        <TaxonomyId id="731" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="WINDOWS PRESENTATION FOUNDATION" typeDescription="Found in WORK HISTORY; POS-17" typeId="7310076" lastUsed="2014-03-01">
+          <NumericValue description="Total Months">3</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="WINDOWS PRESENTATION FOUNDATION">
+          <StringValue description="taxonomies">Information Technology → User Interface</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+      - <Competency name="WPF">
+        <CompetencyId id="7310077" idOwner="7310076" />
+        <TaxonomyId id="731" idOwner="10" description="Sovren" />
+        - <CompetencyEvidence name="WPF" typeDescription="Found in WORK HISTORY; POS-17" typeId="7310077" lastUsed="2014-03-01">
+          <NumericValue description="Total Months">3</NumericValue>
+        </CompetencyEvidence>
+        - <CompetencyEvidence name="WPF">
+          <StringValue description="taxonomies">Information Technology → User Interface</StringValue>
+        </CompetencyEvidence>
+      </Competency>
+    </Qualifications>
+    - <Languages>
+      - <Language>
+        <LanguageCode>en</LanguageCode>
+        <Read>true</Read>
+        <Write>true</Write>
+        <Speak>true</Speak>
+        <Comments>[RESUME_LANGUAGE]</Comments>
+      </Language>
+    </Languages>
+    <RevisionDate>2016-11-10</RevisionDate>
+  </StructuredXMLResume>
+  - <NonXMLResume>
+    <TextResume>Curriculum Vitae 2016 Biben Nurbani Hasan [Home]: Jalan Teratai Mekar VIII No. 27, Komp. Panghegar Permai Bandung Jawa barat [Contact]: Email: bibennurbani@gmail.com Phone: 085721549005 Web: bibennurbani.net PERSONAL DETAIL Place of Birth: Bandung Gender: Male Date of Birth: Dec. 8, 1991 Health: Good Religion: Islam Language Bahasa Indonesia (Good), English (Good) A. PROFILE • Goal-oriented individual with good analytic thinking, fast leaner, result oriented. • Enthusiastic team player and strive to contribute best practice, standards compliant approaches wherever possible. • Problem solver. • Good knowledge software development methodology. • Eager to learn new skills and competencies, • Technology: - Programming Language: C#, C++, Java, php, SQL, CSS, JavaScript, JQuery, Groovy, Ruby, Python - Framework / Lib: Code Igniter, Laravel, PrimeFaces, AngularJS, Grails, .Net - Application Server: Apache Tomcat, IIS - Database: Oracle, MySQL, SQL Server, PostgreSQL, DB2 - Operating System: Windows, Linux - Development Tools: Eclipse, SQL Server Management Studio, Sublime Text, Visual Studio B. EDUCATION School Degree Subject From To GPA Politeknik Negeri Bandung (POLBAN) Diploma Majoring in Informatics 2009 2012 3.44 out Engineering of 4 Universitas Pasundan (UNPAS) S1 Majoring in Informatics 2013 2016 3.49 out Engineering of 4 C. COURSE,TRAINING (From the most recent) No Title Provider Place Date , Duration Certificate 1 Analyst Programmer Certification PT. Mitrais Indonesia, July 2015, 10 Days n/a Program - Software Configuration Bandung Management 2 Analyst Programmer Certification PT. Mitrais Indonesia, February 2015, 10 n/a Program - Software Maintenance Bandung days 3 Windows 8 development with HTML PT Navcore Nextology Indonesia, December 2013, 5 n/a 5 and CSS3 Bootcamp (Facilitator) Jakarta days 4 Windows 8 & windows 8.1 Apps - Microsoft Singapore November 2013, 7 n/a Windows Modern Apps Factory days Page 1 of 8 Curriculum Vitae 2016 5 Microsoft Fast Track Program Microsoft Indonesia Indonesia, November 2012, 1 n/a Jakarta Month 6 Microsoft Virtual Academy(MVA) Microsoft Online July 2012 n/a Certificate Of Learning - Developing Course in HTML5 with JavaScript and CSS3 Jump Start D. RELEVANT EXPERIENCE & ACCOMPLISHMENT • Involved on user requirement design by modeling current business process. • Involved on system design; user interface design, system specification, and database design • Involved on program specification, programming. • Involved in testing the application in order to achieve good performance. • Involved in creating application framework. E. EMPLOYMENT (From the most recent) E.1 Company (From the most recent) Name: PT. Brain Power Solution C1 From: Sep. 2015 To: Mar. 2016 Role: Freelance Software Engineer Name: PT. Mitrais C2 From: Sep. 2014 To: Sep. 2015 Role: .NET Software Engineer Name: PT. Navcore Nextology C3 From: Sep. 2012 To: Sep.2014 Role: .Net Web Developer, Windows Store Apps Developer Name: PT. Cybertrend Intrabuana (Intership) C4 From: Jul. 2011 To: Sep. 2011 Role: Software Engineer E.2 Projects (From the most recent) Project Name: Skk Migas RPTK - IMTA P1 Role: Programmer Period From: Nov.2015 To: Present Customer: PT. Divusi Project Site: Jl.Villa Duta No.1 Parongpong, Bandung Project Desc.: Web based application to manage Rencana Pengajuan Tenaga Kerja & Izin Menggunakan Tenaga Kerja Asing from SKK Migas, Pertamina Technical Info: App Type: Web Based Dev language: Java, Groovy Server OS: Windows Framework: Grails, Primefaces DB: Oracle, H2 Dev Tools: Eclipse App Server: Apache Tomcat Other Info: Git source control Project Name: Lead Management System P2 Role: Programmer Period From: Sept.2015 To: Oct.2015 Customer: Bank Mandiri Page 2 of 8 Curriculum Vitae 2016 Project Site: Jl.Villa Duta No.1 Parongpong, Bandung Project Desc.: Web based application to manage Lead data from Bank Mandiri Technical Info: App Type: Web Based Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: TFS source control Project Name: E-SIC (E-Short Interval Control) P3 Role: Programmer Period From: Aug.2015 To: Sep.2015 Customer: PT. Coca Cola Amatil Indonesia Project Site: Jl. Sultan Iskandar Muda, Jakarta Project Desc.: e-SIC (e-Short Interval Control), called as eSIC, is a tool created by OEE Team from Manufacturing Team for measuring productivity of Finished Goods production lines by recording the output performance and any unplanned downtime event in a certain consistent duration (every hour). Technical Info: Kendo UI, ASP.Net 4 MVC. App Type: Web Based Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: GIT Source Control Project Name: DMS(Data Migration System) Data integration P4 Role: Programmer Period From: Jul.2015 To: Jul. 2015 Customer: PT. Coca Cola Amatil Indonesia Project Site: Jl. Sultan Iskandar Muda, Jakarta Project Desc.: Console application that use to integrate csv data from sftp into IBM db2 database. Technical Info: App Type: Desktop Based, Services Dev language: C# Server OS: Windows Framework: .Net DB: DB2 Dev Tools: Microsoft Visual Studio App Server: - Other Info: - Project Name: CAMP PHP Enablement P5 Role: Programmer Period From: Jul.2015 To: Jul. 2015 Customer: PT. Mitrais Project Site: Jalan Prof. Drg. Surya Sumantri No.8-D, Bandung Project Desc.: Internal project for PHP Skill enablement Technical Info: App Type: Web Based Dev language: PHP Page 3 of 8 Curriculum Vitae 2016 Server OS: Linux Framework: Laravel, Code Igniter, MySql. DB: My SQL Dev Tools: Sublime Text App Server: Apache Other Info: 2 Project (Online Recruitment, Mitrais Home Portal) Project Name: CAMP Phyton Enablement P6 Role: Programmer Period From: Jun.2015 To: Jun. 2015 Customer: PT. Mitrais Project Site: Jalan Prof. Drg. Surya Sumantri No.8-D, Bandung Project Desc.: Internal project for Phyton Skill enablement Technical Info: App Type: Web Based Dev language: Phyton Server OS: Linux Framework: Phyton DB: My SQL Dev Tools: Sublime Text App Server: Apache Other Info: 2 Project (Online Recruitment, Mitrais Home Portal) Project Name: Mitrais Online Recruitment P7 Role: Programmer Period From: May.2015 To: Jun. 2015 Customer: PT. Mitrais Project Site: Jalan Prof. Drg. Surya Sumantri No.8-D, Bandung Project Desc.: Internal Project for Mitrais Online Recruitment http://careers.mitrais.com/ Technical Info: App Type: Web Based Dev language: C# Server OS: Windows Framework: .Net, AngularJS DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: Contain public site and admin site Project Name: Philo Investment Advisor P8 Role: Programmer Period From: Nov.2014 To: May. 2015 Customer: Philoport Project Site: Jalan Prof. Drg. Surya Sumantri No.8-D, Bandung Project Desc.: Website Application for Investment advisers and asset Consultant Company. Technical Info: App Type: Web Based Dev language: C# Server OS: Windows Framework: .Net, AngularJS DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: HMS Financial System P9 Page 4 of 8 Curriculum Vitae 2016 Role: Programmer Period From: Sep.2014 To: Nov. 2014 Customer: PT. Mitrais Project Site: Jalan Prof. Drg. Surya Sumantri No.8-D, Bandung Project Desc.: Website for Financial in hospital management systems; It is a financial system designed to support a one stop solution in hospital information system. Technical Info: App Type: Web Based Dev language: C# Server OS: Windows Framework: .Net, AngularJS DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: Meeting Room Scheduler P10 Role: Programmer Period From: Jul.2014 To: Sep. 2014 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Mobile Application that give info about current meeting room, Get the info from EWS managed API and integrated with outlook calendar for internal office application, can run on Android, Windows Phone, iPhone, iPad, Windows 8. Technical Info: App Type: Mobile Application Dev language: HTML 5, jQuery mobile Server OS: Windows Framework: - DB: SQLite Dev Tools: Intel XDK App Server: - Other Info: - Project Name: POC Mobile Work Force for Finance P11 Role: Programmer Period From: Mar.2014 To: Jul. 2014 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: A proof of concept Windows Phone based application that surveying a customer for credit purpose and integration with Windows azure. Technical Info: App Type: Mobile Application Dev language: C# Server OS: Windows Framework: .Net DB: SQLite Dev Tools: Microsoft Visual Studio App Server: - Other Info: - Project Name: E-correspondences for internal purpose P12 Role: Programmer Period From: Feb.2014 To: Mar. 2014 Customer: PT. Navcore Nextology Page 5 of 8 Curriculum Vitae 2016 Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Work as a developer and UI Designer; Create a SharePoint based application that manages correspondence for internal purpose. Technical Info: App Type: Mobile Application Dev language: C# Server OS: Windows Framework: .Net, Sharepoint DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: POS for Restaurant Integrated with Navintory P13 Role: Programmer Period From: Dec.2013 To: Mar. 2014 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: POS application in Windows 8 for restaurant that integrates with previous project (Navintory). Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C#, WPF Xaml Server OS: Windows 8 Framework: .Net, AngularJS DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: - Other Info: - Project Name: Navintory (Navcore Inventory) P14 Role: Programmer Period From: Jul.2013 To: Dec. 2013 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Web based application for Inventory that can store any type of data with dynamic field like list in SharePoint. Technical Info: App Type: Web Based Dev language: C# Server OS: Windows Framework: .Net, AngularJS DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: BIN Command Centre POC P15 Role: Programmer Period From: Jun.2013 To: Jul. 2013 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Windows 8 Application for BIN Command Centre. Technical Info: Page 6 of 8 Curriculum Vitae 2016 App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: POS Windows 8 For Grand Preanger Hotel P16 Role: Programmer Period From: Mar.2013 To: Jun. 2013 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: POS application for restaurant integrates with Hotel Management Systems. Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: Mobile Broadband Account Experience For Telco Provider P17 Role: Programmer Period From: Dec.2012 To: Mar. 2013 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Windows 8 Mobile Broadband Application for Indosat. Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: NOVA (Gramedia) P18 Role: Programmer Period From: Nov.2012 To: Dec. 2012 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Windows 8 Mobile Application for Gramedia news Reader Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Page 7 of 8 Curriculum Vitae 2016 Project Name: CHIC (Gramedia) P19 Role: Programmer Period From: Nov.2012 To: Nov. 2012 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Windows 8 Mobile Application for Gramedia news Reader Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: Intisari (Gramedia) P20 Role: Programmer Period From: Oct.2012 To: Nov.2012 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Windows 8 Mobile Application for Gramedia news Reader Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - Project Name: IDEA (Gramedia) P21 Role: Programmer Period From: Oct.2012 To: Oct. 2012 Customer: PT. Navcore Nextology Project Site: Jl. HR Rasuna Said No.08 - 09 A, Jakarta Project Desc.: Windows 8 Mobile Application for Gramedia news Reader Technical Info: App Type: Desktop Based (Windows Store App) Dev language: C# Server OS: Windows Framework: .Net DB: SQL Server Dev Tools: Microsoft Visual Studio App Server: IIS Other Info: - I hereby declare that all information above is true and correct to the best of my knowledge. Bandung, April 16 Biben Nurbani Hasan Page 8 of 8</TextResume>
+  </NonXMLResume>
+  - <UserArea>
+    - <sov:ResumeUserArea>
+      - <sov:Culture>
+        <sov:Language>en</sov:Language>
+        <sov:Country>ID</sov:Country>
+        <sov:CultureInfo>en-US</sov:CultureInfo>
+      </sov:Culture>
+      - <sov:PersonalInformation>
+        <sov:DateOfBirth>1991-12-08</sov:DateOfBirth>
+        <sov:Birthplace>Bandung</sov:Birthplace>
+        <sov:Gender>Male</sov:Gender>
+      </sov:PersonalInformation>
+      - <sov:ExperienceSummary>
+        <sov:Description>Biben Nurbani Hasan's experience appears to be concentrated in Information Technology / Programming, with exposure to Common End-user Software / Operating Systems. Biben Nurbani Hasan has 6 years of work experience, with no management experience.</sov:Description>
+        <sov:MonthsOfWorkExperience>66</sov:MonthsOfWorkExperience>
+        <sov:YearsOfWorkExperience>6</sov:YearsOfWorkExperience>
+        <sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+        <sov:YearsOfManagementExperience>0</sov:YearsOfManagementExperience>
+        <sov:HighestManagementScore>0</sov:HighestManagementScore>
+        <sov:ExecutiveType>none</sov:ExecutiveType>
+        - <sov:BestFitTaxonomies>
+          - <sov:BestFitTaxonomy id="10" rootId="Sovren" name="Information Technology" weight="9914002.16" percentOfOverall="99.32" percentOfParent="99.32">
+            <sov:BestFitTaxonomy id="204" rootId="Sovren" name="Programming" weight="6781040.96" percentOfOverall="67.93" percentOfParent="68.40" />
+            <sov:BestFitTaxonomy id="193" rootId="Sovren" name="Database" weight="2746671.00" percentOfOverall="27.52" percentOfParent="27.70" />
+          </sov:BestFitTaxonomy>
+          - <sov:BestFitTaxonomy id="0" rootId="Sovren" name="Common End-user Software" weight="46713.90" percentOfOverall="0.47" percentOfParent="0.47">
+            <sov:BestFitTaxonomy id="299" rootId="Sovren" name="Operating Systems" weight="46273.26" percentOfOverall="0.46" percentOfParent="99.06" />
+            <sov:BestFitTaxonomy id="228" rootId="Sovren" name="Data Centric" weight="311.04" percentOfOverall="0.00" percentOfParent="0.67" />
+          </sov:BestFitTaxonomy>
+        </sov:BestFitTaxonomies>
+      </sov:ExperienceSummary>
+      - <sov:TrainingHistory>
+        <sov:Text>3 Windows 8 development with HTML PT Navcore Nextology Indonesia, December 2013, 5 n/a 5 and CSS3 Bootcamp (Facilitator) Jakarta days</sov:Text>
+        - <sov:Training>
+          <sov:Type>Unknown</sov:Type>
+          <sov:TrainingName />
+          <sov:Entity />
+          <sov:Description>3 Windows 8 development with HTML PT Navcore Nextology Indonesia, December 2013, 5 n/a 5 and CSS3 Bootcamp (Facilitator) Jakarta days</sov:Description>
+          - <sov:EndDate>
+            <YearMonth>2013-12</YearMonth>
+          </sov:EndDate>
+        </sov:Training>
+      </sov:TrainingHistory>
+      - <sov:Sections>
+        <sov:Section starts="17" ends="17" sectionType="SUMMARY">PROFILE</sov:Section>
+        <sov:Section starts="18" ends="31" sectionType="OBJECTIVE">Goal</sov:Section>
+        <sov:Section starts="32" ends="65" sectionType="EDUCATION">EDUCATION</sov:Section>
+        <sov:Section starts="66" ends="73" sectionType="WORK HISTORY">RELEVANT EXPERIENCE</sov:Section>
+        <sov:Section starts="74" ends="468" sectionType="WORK HISTORY">EMPLOYMENT</sov:Section>
+      </sov:Sections>
+      - <sov:ReservedData>
+        - <sov:Phones>
+          <sov:Phone>Phone: 085721549005</sov:Phone>
+          <sov:Phone>085721549005</sov:Phone>
+        </sov:Phones>
+        - <sov:EmailAddresses>
+          <sov:EmailAddress>bibennurbani@gmail.com</sov:EmailAddress>
+        </sov:EmailAddresses>
+        - <sov:Urls>
+          <sov:Url>bibennurbani.net</sov:Url>
+          <sov:Url>http://careers.mitrais.com</sov:Url>
+        </sov:Urls>
+      </sov:ReservedData>
+      <sov:ParsedTextLength>26240</sov:ParsedTextLength>
+      <sov:ParseTime>1938</sov:ParseTime>
+      <sov:LicenseSerialNumber>EU:Geekseat:20161110025810482:f6589d6d-9e6f-4e12-999e-70270d3c89bf</sov:LicenseSerialNumber>
+      <sov:ParserConfigurationString>XX00000X0X00000001X1101010110111101X1X000111111111111111111X01000100111000011000000000000000111010000001</sov:ParserConfigurationString>
+      <sov:ParserVersion>7.5.7509.9</sov:ParserVersion>
+    </sov:ResumeUserArea>
+  </UserArea>
+</Resume>
